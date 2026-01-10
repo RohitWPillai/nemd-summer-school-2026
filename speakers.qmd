@@ -1,0 +1,100 @@
+---
+title: "Speakers"
+toc: false
+---
+
+::: {.content-section}
+
+## World-Leading Experts in NEMD
+
+Our speakers bring decades of combined expertise in molecular dynamics, computational fluid dynamics, and interfacial phenomena.
+
+::: {.speaker-grid}
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Jesper Schmidt Hansen
+[Professor, Roskilde University]{.affiliation}
+
+Expert in computational fluid dynamics, molecular dynamics simulations, and nanofluidics. His research focuses on nonequilibrium processes and viscoelastic models for complex fluids.
+
+[View profile →](https://forskning.ruc.dk/en/persons/jschmidt/)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Samy Merabia
+[Senior Research Director, CNRS Lyon]{.affiliation}
+
+Specialist in thermal transport at the nanoscale using molecular dynamics simulations. His work spans nanofluidics, condensed matter systems, and interfacial thermal conductance.
+
+[View profile →](https://www.smerabia.net/)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Xinyan Wang
+[Professor, Brunel University London]{.affiliation}
+
+UKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion engines. Associate Principal Editor for the journal *Fuel*.
+
+[View profile →](https://www.brunel.ac.uk/people/xinyan-wang)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Dmitry Nerukh
+[Senior Lecturer, Aston University]{.affiliation}
+
+Expert in hybrid hydrodynamics/molecular dynamics multiscale modelling. His research includes atomistic simulations of viral systems and protein folding dynamics.
+
+[View profile →](https://research.aston.ac.uk/en/persons/dmitry-nerukh)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Peter Daivis
+[Professor, RMIT University]{.affiliation}
+
+Specialist in polymer and colloid physics, computer simulation using equilibrium and non-equilibrium molecular dynamics, and molecular rheology of complex fluids.
+
+[View profile →](https://www.rmit.edu.au/profiles/d/peter-daivis)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Donatas Surblys
+[Associate Professor, Tohoku University]{.affiliation}
+
+Expert in molecular dynamics simulations of interfaces, wetting phenomena, and membrane systems. PhD in Mechanical Engineering from Osaka University.
+
+[View profile →](https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Nicodemo Di Pasquale
+[Associate Professor, University of Bologna]{.affiliation}
+
+Researcher in the Department of Industrial Chemistry focusing on analysis, design, and control of chemical processes.
+
+[View profile →](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en)
+:::
+:::
+
+:::
+
+:::

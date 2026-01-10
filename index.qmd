@@ -1,0 +1,61 @@
+---
+pagetitle: "NEMD Summer School 2026"
+toc: false
+page-layout: custom
+---
+
+::: {.hero}
+::: {.hero-content}
+
+# NEMD for Fluid Dynamics & Interfacial Phenomena
+
+::: {.subtitle}
+A 2-day intensive summer school on Non-Equilibrium Molecular Dynamics
+:::
+
+::: {.event-details}
+<span>6-7 July 2026</span> | <span>University of Edinburgh</span>
+:::
+
+[Register Now](registration.qmd){.btn-register}
+
+:::
+:::
+
+::: {.content-section}
+
+## About the Summer School
+
+After many years as a research topic, Non-Equilibrium Molecular Dynamics (NEMD) has finally reached maturity as a technique for fluid dynamics modelling. Conference sponsors **Tokyo Electron**, a world leader in semiconductor manufacture, are routinely using MD to model semiconductor design. This is together with countless applications in biomechanics, thermofluids (boiling for energy generation) and lubrication.
+
+This summer school offers the chance to learn the fundamentals of NEMD, with teaching by **world-leading experts**. The programme will cover:
+
+- **Fundamentals of MD theory and modelling** — including how to write a basic MD solver, how to parallelise for supercomputers and GPUs
+- **Core NEMD techniques** — model flow, obtain viscosity, heat flux, slip lengths and liquid-vapour surface tension
+- **Multiscale modelling** — studying nanoscale fluids, linking to continuum models and making results relevant for engineering problems
+- **Software tools** — LAMMPS, Python frameworks like ASE, and machine learning potentials
+- **Latest advances** — machine learning potentials applied to fluid flow and how to obtain fundamental NEMD quantities for industrial applications
+
+:::
+
+::: {.conference-banner}
+
+### NEMD Conference: 8-10 July 2026
+
+Summer school attendees receive **free access** to the 3-day NEMD Conference immediately following the school. Conference website coming soon.
+
+:::
+
+::: {.sponsors}
+
+### Supported by
+
+**Tokyo Electron** | **CCP5**
+
+:::
+
+::: {.footer}
+
+**NEMD Summer School 2026** | University of Edinburgh | [Contact the organisers](mailto:R.Pillai@ed.ac.uk)
+
+:::

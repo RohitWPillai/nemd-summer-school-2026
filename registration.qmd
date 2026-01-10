@@ -1,0 +1,66 @@
+---
+title: "Registration"
+toc: false
+---
+
+::: {.content-section}
+
+## Register for the Summer School
+
+Join us for two days of intensive learning on Non-Equilibrium Molecular Dynamics with world-leading experts.
+
+::: {.registration-box}
+
+### Registration Fee
+
+::: {.fee}
+£100
+:::
+
+::: {.includes}
+Your registration includes:
+:::
+
+- Full access to all lectures and sessions (6-7 July)
+- **FREE** attendance at NEMD Conference (8-10 July)
+- Coffee breaks and refreshments
+- Summer school dinner (Day 1)
+- Course materials and resources
+
+[Registration Opening Soon]{.btn-register}
+
+:::
+
+---
+
+### Key Dates
+
+| | |
+|---|---|
+| **Registration opens** | TBC |
+| **Early bird deadline** | TBC |
+| **Registration closes** | TBC |
+| **Summer school** | 6-7 July 2026 |
+| **NEMD Conference** | 8-10 July 2026 |
+| **Venue** | King's Buildings Campus, University of Edinburgh |
+
+---
+
+### Who Should Attend?
+
+This summer school is ideal for:
+
+- **PhD students** working with molecular dynamics simulations
+- **Postdoctoral researchers** expanding into NEMD techniques
+- **Academic staff** seeking to incorporate MD methods into their research
+- **Industry professionals** applying computational methods to fluid dynamics problems
+
+No prior experience with NEMD is required, though familiarity with basic programming and physics concepts is helpful.
+
+---
+
+### Questions?
+
+For registration enquiries, please contact: [R.Pillai@ed.ac.uk](mailto:R.Pillai@ed.ac.uk)
+
+:::

@@ -1,0 +1,60 @@
+---
+title: "Schedule"
+toc: false
+---
+
+::: {.content-section}
+
+## Programme
+
+The summer school runs over two intensive days, covering fundamentals through to cutting-edge applications of NEMD with a focus on **fluid dynamics** and **interfacial phenomena**. Topics include viscosity, heat flux, slip lengths, liquid-vapour surface tension, and multiscale modelling approaches for nanoscale fluids.
+
+::: {.schedule-day}
+
+### Day 1: Sunday, 6 July 2026
+
+| Time | Session | Speaker |
+|------|---------|---------|
+| 09:00 – 09:30 | Registration & Welcome Coffee | |
+| 09:30 – 10:00 | **Opening & Introduction to NEMD** | TBC |
+| 10:00 – 11:00 | **Fundamentals of MD Theory** | TBC |
+| 11:00 – 11:30 | *Coffee Break* | |
+| 11:30 – 12:30 | **Writing a Basic MD Solver** | TBC |
+| 12:30 – 14:00 | *Lunch* | |
+| 14:00 – 15:00 | **Parallelisation for HPC and GPUs** | TBC |
+| 15:00 – 16:00 | **NEMD Techniques: Viscosity & Heat Flux** | TBC |
+| 16:00 – 16:30 | *Coffee Break* | |
+| 16:30 – 17:30 | **Slip Lengths & Surface Tension** | TBC |
+| 19:00 | *Summer School Dinner* | |
+
+:::
+
+::: {.schedule-day}
+
+### Day 2: Monday, 7 July 2026
+
+| Time | Session | Speaker |
+|------|---------|---------|
+| 09:00 – 09:30 | Coffee | |
+| 09:30 – 10:30 | **Multiscale Modelling: Nano to Continuum** | TBC |
+| 10:30 – 11:30 | **Engineering Applications at Scale** | TBC |
+| 11:30 – 12:00 | *Coffee Break* | |
+| 12:00 – 13:00 | **Software Tools: LAMMPS** | TBC |
+| 13:00 – 14:30 | *Lunch* | |
+| 14:30 – 15:30 | **Python Frameworks: ASE & Beyond** | TBC |
+| 15:30 – 16:30 | **Machine Learning Potentials for Fluids** | TBC |
+| 16:30 – 17:00 | *Coffee Break* | |
+| 17:00 – 17:45 | **ML Potentials in Industry Applications** | TBC |
+| 17:45 – 18:00 | **Closing Remarks** | |
+
+:::
+
+---
+
+**Note:** Schedule is preliminary and subject to change. Speaker assignments will be updated as confirmed.
+
+### Venue
+
+All sessions will be held at the **King's Buildings Campus, University of Edinburgh**. Detailed venue information and directions will be provided to registered participants.
+
+:::

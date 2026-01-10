@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "NEMD Summer School 2026"
+  description: "Non-Equilibrium Molecular Dynamics for Fluid Dynamics and Interfacial Phenomena"
+  site-url: https://RohitWPillai.github.io/nemd-summer-school-2026
+  navbar:
+    background: transparent
+    left:
+      - href: index.qmd
+        text: Home
+      - href: schedule.qmd
+        text: Schedule
+      - href: speakers.qmd
+        text: Speakers
+      - href: registration.qmd
+        text: Registration
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    mainfont: Inter
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+execute:
+  freeze: auto
