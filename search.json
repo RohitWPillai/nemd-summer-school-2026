@@ -14,6 +14,69 @@
     "text": "Our speakers bring decades of combined expertise in molecular dynamics, computational fluid dynamics, and interfacial phenomena.\n\n\n\n\nProfessor, Roskilde University\nExpert in computational fluid dynamics, molecular dynamics simulations, and nanofluidics. His research focuses on nonequilibrium processes and viscoelastic models for complex fluids.\nView profile →\n\n\n\n\n\nSenior Research Director, CNRS Lyon\nSpecialist in thermal transport at the nanoscale using molecular dynamics simulations. His work spans nanofluidics, condensed matter systems, and interfacial thermal conductance.\nView profile →\n\n\n\n\n\nProfessor, Brunel University London\nUKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion engines. Associate Principal Editor for the journal Fuel.\nView profile →\n\n\n\n\n\nSenior Lecturer, Aston University\nExpert in hybrid hydrodynamics/molecular dynamics multiscale modelling. His research includes atomistic simulations of viral systems and protein folding dynamics.\nView profile →\n\n\n\n\n\nProfessor, RMIT University\nSpecialist in polymer and colloid physics, computer simulation using equilibrium and non-equilibrium molecular dynamics, and molecular rheology of complex fluids.\nView profile →\n\n\n\n\n\nAssociate Professor, Tohoku University\nExpert in molecular dynamics simulations of interfaces, wetting phenomena, and membrane systems. PhD in Mechanical Engineering from Osaka University.\nView profile →\n\n\n\n\n\nAssociate Professor, University of Bologna\nResearcher in the Department of Industrial Chemistry focusing on analysis, design, and control of chemical processes.\nView profile →\n\n\n\n\n\nRoyal Academy of Engineering Research Fellow, University of Edinburgh\nExpert in nanobubbles for water treatment, molecular dynamics, and nanoscale multiphase fluid simulation. His research focuses on cavitation dynamics and surface nanobubble behaviour.\nView profile →\n\n\n\n\n\nSenior Lecturer in Fluid Dynamics, Brunel University London\nSpecialist in multi-scale simulation methods combining particle and continuum approaches. His work includes coupled atomistic-continuum simulations and applications to nucleate boiling and film rupture.\nView profile →"
   },
   {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "Website for the NEMD for Fluid Dynamics and Interfacial Phenomena Summer School.\n\n\n\nDates: 6-7 July 2026\nLocation: King’s Buildings Campus, University of Edinburgh\nFee: £100 (includes free access to NEMD Conference 8-10 July)\nSponsors: Tokyo Electron, CCP5\n\n\n\n\n\nFramework: Quarto\nStyling: Custom CSS with hero image\nHosting: GitHub Pages (via GitHub Actions)\n\n\n\n\n# Preview site\nquarto preview\n\n# Build site\nquarto render\n\n\n\n_quarto.yml       # Site configuration\nindex.qmd         # Homepage with hero image\nschedule.qmd      # Program/timetable\nspeakers.qmd      # Speaker profiles\nregistration.qmd  # Registration info\nstyles.css        # Custom styles (hero, cards)\nimages/\n  hero.png        # Hero background image\n\n\n\nGitHub Actions workflow automatically builds and deploys to GitHub Pages.\n\n\n\n9 confirmed speakers - bios sourced from institutional websites. Photos to be added when received from speakers.\n\n\n\nCurrently placeholder - awaiting university payment system details."
+  },
+  {
+    "objectID": "CLAUDE.html#event-details",
+    "href": "CLAUDE.html#event-details",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "Dates: 6-7 July 2026\nLocation: King’s Buildings Campus, University of Edinburgh\nFee: £100 (includes free access to NEMD Conference 8-10 July)\nSponsors: Tokyo Electron, CCP5"
+  },
+  {
+    "objectID": "CLAUDE.html#tech-stack",
+    "href": "CLAUDE.html#tech-stack",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "Framework: Quarto\nStyling: Custom CSS with hero image\nHosting: GitHub Pages (via GitHub Actions)"
+  },
+  {
+    "objectID": "CLAUDE.html#local-development",
+    "href": "CLAUDE.html#local-development",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "# Preview site\nquarto preview\n\n# Build site\nquarto render"
+  },
+  {
+    "objectID": "CLAUDE.html#project-structure",
+    "href": "CLAUDE.html#project-structure",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "_quarto.yml       # Site configuration\nindex.qmd         # Homepage with hero image\nschedule.qmd      # Program/timetable\nspeakers.qmd      # Speaker profiles\nregistration.qmd  # Registration info\nstyles.css        # Custom styles (hero, cards)\nimages/\n  hero.png        # Hero background image"
+  },
+  {
+    "objectID": "CLAUDE.html#deployment",
+    "href": "CLAUDE.html#deployment",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "GitHub Actions workflow automatically builds and deploys to GitHub Pages."
+  },
+  {
+    "objectID": "CLAUDE.html#speakers",
+    "href": "CLAUDE.html#speakers",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "9 confirmed speakers - bios sourced from institutional websites. Photos to be added when received from speakers."
+  },
+  {
+    "objectID": "CLAUDE.html#registration",
+    "href": "CLAUDE.html#registration",
+    "title": "NEMD Summer School 2026",
+    "section": "",
+    "text": "Currently placeholder - awaiting university payment system details."
+  },
+  {
+    "objectID": "index.html#about-the-summer-school",
+    "href": "index.html#about-the-summer-school",
+    "title": "NEMD Summer School 2026",
+    "section": "About the Summer School",
+    "text": "About the Summer School\nAfter many years as a research topic, Non-Equilibrium Molecular Dynamics (NEMD) has finally reached maturity as a technique for fluid dynamics and interfacial phenomena modelling. Conference sponsors Tokyo Electron, a world leader in semiconductor manufacture, are routinely using MD to model semiconductor design. This is together with countless applications in biomechanics, thermofluids (boiling for energy generation) and lubrication.\nThis summer school offers the chance to learn the fundamentals of NEMD, with teaching by world-leading experts. The programme will cover:\n\nFundamentals of MD theory and modelling — including how to write a basic MD solver, how to parallelise for supercomputers and GPUs\nCore NEMD techniques for fluids and interfaces — model flow, obtain viscosity, heat flux, slip lengths and liquid-vapour surface tension\nMultiscale modelling — studying nanoscale fluids, linking to continuum models and making results relevant for engineering problems\nSoftware tools — LAMMPS, Python frameworks like ASE, and machine learning potentials\nLatest advances — machine learning potentials applied to fluid flow and how to obtain fundamental NEMD quantities for industrial applications"
+  },
+  {
     "objectID": "registration.html",
     "href": "registration.html",
     "title": "Registration",
@@ -26,13 +89,6 @@
     "title": "Registration",
     "section": "",
     "text": "Join us for two days of intensive learning on Non-Equilibrium Molecular Dynamics with world-leading experts.\n\n\n\n£100\n\n\nYour registration includes:\n\n\nFull access to all lectures and sessions (6-7 July)\nFREE attendance at NEMD Conference (8-10 July)\nCoffee breaks and refreshments\nSummer school dinner (Day 1)\nCourse materials and resources\n\nRegistration Opening Soon\n\n\n\n\n\n\n\nRegistration opens\nTBC\n\n\nEarly bird deadline\nTBC\n\n\nRegistration closes\nTBC\n\n\nSummer school\n6-7 July 2026\n\n\nNEMD Conference\n8-10 July 2026\n\n\nVenue\nKing’s Buildings Campus, University of Edinburgh\n\n\n\n\n\n\n\nThis summer school is ideal for:\n\nPhD students working with molecular dynamics simulations\nPostdoctoral researchers expanding into NEMD techniques\nAcademic staff seeking to incorporate MD methods into their research\nIndustry professionals applying computational methods to fluid dynamics problems\n\nNo prior experience with NEMD is required, though familiarity with basic programming and physics concepts is helpful.\n\n\n\n\nFor registration enquiries, please contact: R.Pillai@ed.ac.uk"
-  },
-  {
-    "objectID": "index.html#about-the-summer-school",
-    "href": "index.html#about-the-summer-school",
-    "title": "NEMD Summer School 2026",
-    "section": "About the Summer School",
-    "text": "About the Summer School\nAfter many years as a research topic, Non-Equilibrium Molecular Dynamics (NEMD) has finally reached maturity as a technique for fluid dynamics and interfacial phenomena modelling. Conference sponsors Tokyo Electron, a world leader in semiconductor manufacture, are routinely using MD to model semiconductor design. This is together with countless applications in biomechanics, thermofluids (boiling for energy generation) and lubrication.\nThis summer school offers the chance to learn the fundamentals of NEMD, with teaching by world-leading experts. The programme will cover:\n\nFundamentals of MD theory and modelling — including how to write a basic MD solver, how to parallelise for supercomputers and GPUs\nCore NEMD techniques for fluids and interfaces — model flow, obtain viscosity, heat flux, slip lengths and liquid-vapour surface tension\nMultiscale modelling — studying nanoscale fluids, linking to continuum models and making results relevant for engineering problems\nSoftware tools — LAMMPS, Python frameworks like ASE, and machine learning potentials\nLatest advances — machine learning potentials applied to fluid flow and how to obtain fundamental NEMD quantities for industrial applications"
   },
   {
     "objectID": "schedule.html",
