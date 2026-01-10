@@ -1,0 +1,407 @@
+/* ============================================
+   NEMD Summer School 2026 - Website Styles
+   ============================================ */
+
+/* ===== CSS Variables ===== */
+:root {
+  --primary: #1a365d;       /* Deep blue */
+  --primary-light: #2c5282;
+  --accent: #38b2ac;        /* Teal - fluids theme */
+  --accent-light: #4fd1c5;
+  --text-dark: #1a202c;
+  --text-light: #f7fafc;
+  --bg-light: #f7fafc;
+}
+
+/* ===== Global Typography ===== */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--text-dark);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Fraunces", serif;
+  font-weight: 500;
+  color: var(--primary);
+  letter-spacing: -0.02em;
+}
+
+/* ===== Navbar ===== */
+.navbar {
+  padding: 1rem 2rem;
+  background: var(--primary) !important;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-brand, .navbar-title {
+  font-family: "Fraunces", serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: white !important;
+}
+
+.navbar-nav .nav-link {
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.9) !important;
+  padding: 0.5rem 1rem !important;
+  transition: color 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--accent-light) !important;
+}
+
+/* ===== Hero Section ===== */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: relative;
+  background: linear-gradient(rgba(26, 54, 93, 0.75), rgba(26, 54, 93, 0.85)),
+              url('images/hero.png') center center / cover no-repeat;
+  color: white;
+  padding: 2rem;
+}
+
+.hero-content {
+  max-width: 900px;
+  z-index: 1;
+}
+
+.hero h1 {
+  font-family: "Fraunces", serif;
+  font-size: 3.5rem;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 1rem;
+  line-height: 1.1;
+}
+
+.hero .subtitle {
+  font-size: 1.4rem;
+  font-weight: 300;
+  margin-bottom: 2rem;
+  opacity: 0.95;
+}
+
+.hero .event-details {
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-bottom: 2.5rem;
+  letter-spacing: 0.05em;
+}
+
+.hero .event-details span {
+  display: inline-block;
+  margin: 0 1rem;
+}
+
+.btn-register {
+  display: inline-block;
+  padding: 1rem 2.5rem;
+  background: var(--accent);
+  color: white;
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-decoration: none;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+  border: 2px solid var(--accent);
+}
+
+.btn-register:hover {
+  background: transparent;
+  color: white;
+  border-color: white;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+/* ===== Content Sections ===== */
+.content-section {
+  padding: 5rem 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.content-section h2 {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 3px solid var(--accent);
+  display: inline-block;
+}
+
+.content-section p {
+  font-size: 1.1rem;
+  line-height: 1.9;
+  color: #4a5568;
+}
+
+/* ===== Conference Banner ===== */
+.conference-banner {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: white;
+  padding: 3rem 2rem;
+  text-align: center;
+}
+
+.conference-banner h3 {
+  color: white;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.conference-banner p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  margin: 0;
+}
+
+/* ===== Speaker Cards ===== */
+.speaker-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.speaker-card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.speaker-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+.speaker-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
+
+.speaker-card .speaker-info {
+  padding: 1.5rem;
+}
+
+.speaker-card h3 {
+  font-size: 1.3rem;
+  margin-bottom: 0.25rem;
+  color: var(--primary);
+}
+
+.speaker-card .affiliation {
+  font-size: 0.95rem;
+  color: var(--accent);
+  font-weight: 500;
+  margin-bottom: 0.75rem;
+}
+
+.speaker-card .bio {
+  font-size: 0.9rem;
+  color: #666;
+  line-height: 1.6;
+}
+
+.speaker-card a {
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.speaker-card a:hover {
+  text-decoration: underline;
+}
+
+/* ===== Schedule Table ===== */
+.schedule-day {
+  margin-bottom: 3rem;
+}
+
+.schedule-day h3 {
+  font-size: 1.5rem;
+  color: var(--primary);
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--accent);
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.schedule-table th,
+.schedule-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.schedule-table th {
+  background: var(--primary);
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+
+.schedule-table tr:hover {
+  background: #f7fafc;
+}
+
+.schedule-table .time {
+  font-weight: 600;
+  color: var(--primary);
+  white-space: nowrap;
+}
+
+.schedule-table .break {
+  background: #f0fff4;
+  font-style: italic;
+  color: #666;
+}
+
+/* ===== Registration Section ===== */
+.registration-box {
+  background: linear-gradient(135deg, #f7fafc 0%, #edf2f7 100%);
+  border-radius: 16px;
+  padding: 3rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.registration-box .fee {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin: 1rem 0;
+}
+
+.registration-box .includes {
+  font-size: 1.1rem;
+  color: #4a5568;
+  margin-bottom: 2rem;
+}
+
+.registration-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 1.5rem 0;
+  text-align: left;
+  display: inline-block;
+}
+
+.registration-box li {
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.registration-box li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: bold;
+}
+
+/* ===== Sponsor Section ===== */
+.sponsors {
+  text-align: center;
+  padding: 3rem 2rem;
+  background: #f7fafc;
+}
+
+.sponsors h3 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #718096;
+  margin-bottom: 1.5rem;
+}
+
+/* ===== Footer ===== */
+.footer {
+  background: var(--primary);
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+
+.footer a {
+  color: var(--accent-light);
+}
+
+/* ===== Links ===== */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--primary);
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero .subtitle {
+    font-size: 1.1rem;
+  }
+
+  .hero .event-details {
+    font-size: 1rem;
+  }
+
+  .hero .event-details span {
+    display: block;
+    margin: 0.5rem 0;
+  }
+
+  .content-section {
+    padding: 3rem 1.5rem;
+  }
+
+  .content-section h2 {
+    font-size: 1.8rem;
+  }
+
+  .navbar {
+    padding: 0.75rem 1rem;
+  }
+
+  .speaker-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Hide default quarto elements we don't need */
+#quarto-content {
+  padding-top: 0 !important;
+}
+
+.quarto-title {
+  display: none;
+}
