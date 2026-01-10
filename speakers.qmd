@@ -5,7 +5,7 @@ toc: false
 
 ::: {.content-section}
 
-## World-Leading Experts in NEMD
+## World-Leading Experts in NEMD for Fluids and Interfaces
 
 Our speakers bring decades of combined expertise in molecular dynamics, computational fluid dynamics, and interfacial phenomena.
 
@@ -92,6 +92,30 @@ Expert in molecular dynamics simulations of interfaces, wetting phenomena, and m
 Researcher in the Department of Industrial Chemistry focusing on analysis, design, and control of chemical processes.
 
 [View profile →](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Duncan Dockar
+[Royal Academy of Engineering Research Fellow, University of Edinburgh]{.affiliation}
+
+Expert in nanobubbles for water treatment, molecular dynamics, and nanoscale multiphase fluid simulation. His research focuses on cavitation dynamics and surface nanobubble behaviour.
+
+[View profile →](https://multiscaleflowx.github.io/team/dockar-duncan/)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Edward Smith
+[Senior Lecturer in Fluid Dynamics, Brunel University London]{.affiliation}
+
+Specialist in multi-scale simulation methods combining particle and continuum approaches. His work includes coupled atomistic-continuum simulations and applications to nucleate boiling and film rupture.
+
+[View profile →](https://www.brunel.ac.uk/people/edward-smith)
 :::
 :::
 

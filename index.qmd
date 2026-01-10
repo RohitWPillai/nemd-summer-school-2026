@@ -7,7 +7,7 @@ page-layout: custom
 ::: {.hero}
 ::: {.hero-content}
 
-# NEMD for Fluid Dynamics & Interfacial Phenomena
+# NEMD for Fluids & Interfaces
 
 ::: {.subtitle}
 A 2-day intensive summer school on Non-Equilibrium Molecular Dynamics
@@ -26,12 +26,12 @@ A 2-day intensive summer school on Non-Equilibrium Molecular Dynamics
 
 ## About the Summer School
 
-After many years as a research topic, Non-Equilibrium Molecular Dynamics (NEMD) has finally reached maturity as a technique for fluid dynamics modelling. Conference sponsors **Tokyo Electron**, a world leader in semiconductor manufacture, are routinely using MD to model semiconductor design. This is together with countless applications in biomechanics, thermofluids (boiling for energy generation) and lubrication.
+After many years as a research topic, Non-Equilibrium Molecular Dynamics (NEMD) has finally reached maturity as a technique for fluid dynamics and interfacial phenomena modelling. Conference sponsors **Tokyo Electron**, a world leader in semiconductor manufacture, are routinely using MD to model semiconductor design. This is together with countless applications in biomechanics, thermofluids (boiling for energy generation) and lubrication.
 
 This summer school offers the chance to learn the fundamentals of NEMD, with teaching by **world-leading experts**. The programme will cover:
 
 - **Fundamentals of MD theory and modelling** — including how to write a basic MD solver, how to parallelise for supercomputers and GPUs
-- **Core NEMD techniques** — model flow, obtain viscosity, heat flux, slip lengths and liquid-vapour surface tension
+- **Core NEMD techniques for fluids and interfaces** — model flow, obtain viscosity, heat flux, slip lengths and liquid-vapour surface tension
 - **Multiscale modelling** — studying nanoscale fluids, linking to continuum models and making results relevant for engineering problems
 - **Software tools** — LAMMPS, Python frameworks like ASE, and machine learning potentials
 - **Latest advances** — machine learning potentials applied to fluid flow and how to obtain fundamental NEMD quantities for industrial applications
