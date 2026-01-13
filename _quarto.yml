@@ -5,6 +5,7 @@ website:
   title: "NEMD Summer School 2026"
   description: "Non-Equilibrium Molecular Dynamics for Fluid Dynamics and Interfacial Phenomena"
   site-url: https://RohitWPillai.github.io/nemd-summer-school-2026
+  favicon: images/favicon.png
   navbar:
     background: transparent
     left:

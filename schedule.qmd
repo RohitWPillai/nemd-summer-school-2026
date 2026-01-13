@@ -9,6 +9,21 @@ toc: false
 
 The summer school runs over two intensive days, covering fundamentals through to cutting-edge applications of NEMD with a focus on **fluid dynamics** and **interfacial phenomena**. Topics include viscosity, heat flux, slip lengths, liquid-vapour surface tension, and multiscale modelling approaches for nanoscale fluids.
 
+::: {.callout-tip}
+## How is this summer school different?
+
+Many molecular simulation schools focus either on broad introductions to molecular dynamics or on specific techniques such as machine-learning potentials.
+
+This school takes a different approach. We focus on **non-equilibrium molecular dynamics for liquids and interfaces**, emphasising:
+
+- physical understanding of transport processes
+- practical methods for extracting viscosity, heat flux, slip, and surface tension
+- common pitfalls and uncertainty in non-equilibrium simulations
+- connecting molecular-scale results to continuum and engineering models
+
+The aim is not to cover all of molecular simulation, but to provide a **coherent and accessible foundation** for researchers who want to use MD to study transport and interfacial phenomena with confidence.
+:::
+
 ::: {.schedule-day}
 
 ### Day 1: Sunday, 6 July 2026
