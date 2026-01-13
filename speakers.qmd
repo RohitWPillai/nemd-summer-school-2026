@@ -38,36 +38,24 @@ Specialist in thermal transport at the nanoscale using molecular dynamics simula
 ::: {.speaker-card}
 
 ::: {.speaker-info}
-### Xinyan Wang
-[Professor, Brunel University London]{.affiliation}
-
-UKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion engines. Associate Principal Editor for the journal *Fuel*.
-
-[View profile →](https://www.brunel.ac.uk/people/xinyan-wang)
-:::
-:::
-
-::: {.speaker-card}
-
-::: {.speaker-info}
-### Dmitry Nerukh
-[Senior Lecturer, Aston University]{.affiliation}
-
-Expert in hybrid hydrodynamics/molecular dynamics multiscale modelling. His research includes atomistic simulations of viral systems and protein folding dynamics.
-
-[View profile →](https://research.aston.ac.uk/en/persons/dmitry-nerukh)
-:::
-:::
-
-::: {.speaker-card}
-
-::: {.speaker-info}
 ### Peter Daivis
 [Professor, RMIT University]{.affiliation}
 
 Specialist in polymer and colloid physics, computer simulation using equilibrium and non-equilibrium molecular dynamics, and molecular rheology of complex fluids.
 
 [View profile →](https://www.rmit.edu.au/profiles/d/peter-daivis)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Xinyan Wang
+[Professor, Brunel University London]{.affiliation}
+
+UKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion engines. Associate Principal Editor for the journal *Fuel*.
+
+[View profile →](https://www.brunel.ac.uk/people/xinyan-wang)
 :::
 :::
 
@@ -116,6 +104,18 @@ Expert in nanobubbles for water treatment, molecular dynamics, and nanoscale mul
 Specialist in multi-scale simulation methods combining particle and continuum approaches. His work includes coupled atomistic-continuum simulations and applications to nucleate boiling and film rupture.
 
 [View profile →](https://www.brunel.ac.uk/people/edward-smith)
+:::
+:::
+
+::: {.speaker-card}
+
+::: {.speaker-info}
+### Dmitry Nerukh
+[Senior Lecturer, Aston University]{.affiliation}
+
+Expert in hybrid hydrodynamics/molecular dynamics multiscale modelling. His research includes atomistic simulations of viral systems and protein folding dynamics.
+
+[View profile →](https://research.aston.ac.uk/en/persons/dmitry-nerukh)
 :::
 :::
 
