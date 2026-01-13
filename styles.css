@@ -338,6 +338,52 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1.5rem;
 }
 
+.sponsor-logos {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+}
+
+.sponsor-logos a {
+  display: inline-block !important;
+}
+
+.sponsor-logos p {
+  display: contents;
+}
+
+.sponsor-logo {
+  max-height: 80px;
+  width: auto;
+  opacity: 0.85;
+  transition: opacity 0.2s ease;
+}
+
+.sponsor-logo:hover {
+  opacity: 1;
+}
+
+/* ===== Organisers Section ===== */
+.organisers {
+  text-align: center;
+  padding: 3rem 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.organisers h3 {
+  font-size: 1.5rem;
+  color: var(--primary);
+  margin-bottom: 1.5rem;
+}
+
+.organisers p {
+  line-height: 1.8;
+  color: #4a5568;
+}
+
 /* ===== Footer ===== */
 .footer {
   background: var(--primary);
