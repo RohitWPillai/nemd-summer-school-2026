@@ -149,6 +149,13 @@ h1, h2, h3, h4, h5, h6 {
   color: #4a5568;
 }
 
+.content-section ul,
+.content-section li {
+  font-size: 1.1rem;
+  line-height: 1.9;
+  color: #4a5568;
+}
+
 /* ===== Conference Banner ===== */
 .conference-banner {
   background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
@@ -450,4 +457,20 @@ a:hover {
 
 .quarto-title {
   display: none;
+}
+
+/* ===== Callout Box Styling ===== */
+.callout {
+  font-size: 1.1rem;
+}
+
+.callout ul {
+  font-size: 1.1rem;
+  color: #4a5568;
+  line-height: 1.9;
+}
+
+.callout li {
+  font-size: 1.1rem;
+  color: #4a5568;
 }
