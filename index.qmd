@@ -67,6 +67,7 @@ Summer school attendees receive **free access** to the 3-day NEMD Conference imm
 <div class="sponsor-logos">
 <a href="https://www.tel.com/"><img src="images/tel-logo.png" class="sponsor-logo" alt="Tokyo Electron"></a>
 <a href="https://www.ccp5.ac.uk/"><img src="images/ccp5-logo.png" class="sponsor-logo" alt="CCP5"></a>
+<a href="https://www.epcc.ed.ac.uk/"><img src="images/epcc-logo.png" class="sponsor-logo" alt="EPCC"></a>
 </div>
 
 :::
@@ -79,7 +80,7 @@ Summer school attendees receive **free access** to the 3-day NEMD Conference imm
 [Rohit Pillai](https://eng.ed.ac.uk/about/people/dr-rohit-pillai), University of Edinburgh
 
 **Committee Members**<br>
-[Santiago Romero-Vargas Castrillon](https://eng.ed.ac.uk/about/people/dr-santiago-romero-vargas-castrillon), University of Edinburgh<br>
+[Santiago Castrillon](https://eng.ed.ac.uk/about/people/dr-santiago-romero-vargas-castrillon), University of Edinburgh<br>
 [Saikat Datta](https://www.swansea.ac.uk/staff/saikat.datta/), Swansea University<br>
 [Duncan Dockar](https://eng.ed.ac.uk/about/people/mr-duncan-alexander-dockar), University of Edinburgh<br>
 [Eleonora Ricci](https://eng.ed.ac.uk/about/people/dr-eleonora-ricci), University of Edinburgh<br>
