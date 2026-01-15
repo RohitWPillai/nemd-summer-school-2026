@@ -15,7 +15,7 @@ Our speakers bring decades of combined expertise in molecular dynamics, computat
 
 ::: {.speaker-info}
 ### Jesper Schmidt Hansen
-[Professor, Roskilde University]{.affiliation}
+[Professor, Roskilde University, Denmark]{.affiliation}
 
 Expert in computational fluid dynamics, molecular dynamics simulations, and nanofluidics. His research focuses on nonequilibrium processes and viscoelastic models for complex fluids.
 
@@ -27,7 +27,7 @@ Expert in computational fluid dynamics, molecular dynamics simulations, and nano
 
 ::: {.speaker-info}
 ### Samy Merabia
-[Senior Research Director, CNRS Lyon]{.affiliation}
+[Senior Research Director, CNRS Lyon, France]{.affiliation}
 
 Specialist in thermal transport at the nanoscale using molecular dynamics simulations. His work spans nanofluidics, condensed matter systems, and interfacial thermal conductance.
 
@@ -39,7 +39,7 @@ Specialist in thermal transport at the nanoscale using molecular dynamics simula
 
 ::: {.speaker-info}
 ### Peter Daivis
-[Professor, RMIT University]{.affiliation}
+[Professor, RMIT University, Australia]{.affiliation}
 
 Specialist in polymer and colloid physics, computer simulation using equilibrium and non-equilibrium molecular dynamics, and molecular rheology of complex fluids.
 
@@ -51,7 +51,7 @@ Specialist in polymer and colloid physics, computer simulation using equilibrium
 
 ::: {.speaker-info}
 ### Xinyan Wang
-[Professor, Brunel University London]{.affiliation}
+[Professor, Brunel University London, UK]{.affiliation}
 
 UKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion engines. Associate Principal Editor for the journal *Fuel*.
 
@@ -63,7 +63,7 @@ UKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion eng
 
 ::: {.speaker-info}
 ### Donatas Surblys
-[Associate Professor, Tohoku University]{.affiliation}
+[Associate Professor, Tohoku University, Japan]{.affiliation}
 
 Expert in molecular dynamics simulations of interfaces, wetting phenomena, and membrane systems. PhD in Mechanical Engineering from Osaka University.
 
@@ -75,7 +75,7 @@ Expert in molecular dynamics simulations of interfaces, wetting phenomena, and m
 
 ::: {.speaker-info}
 ### Nicodemo Di Pasquale
-[Associate Professor, University of Bologna]{.affiliation}
+[Associate Professor, University of Bologna, Italy]{.affiliation}
 
 Researcher in the Department of Industrial Chemistry focusing on analysis, design, and control of chemical processes.
 
@@ -87,7 +87,7 @@ Researcher in the Department of Industrial Chemistry focusing on analysis, desig
 
 ::: {.speaker-info}
 ### Duncan Dockar
-[Royal Academy of Engineering Research Fellow, University of Edinburgh]{.affiliation}
+[Royal Academy of Engineering Research Fellow, University of Edinburgh, UK]{.affiliation}
 
 Expert in nanobubbles for water treatment, molecular dynamics, and nanoscale multiphase fluid simulation. His research focuses on cavitation dynamics and surface nanobubble behaviour.
 
@@ -99,7 +99,7 @@ Expert in nanobubbles for water treatment, molecular dynamics, and nanoscale mul
 
 ::: {.speaker-info}
 ### Edward Smith
-[Senior Lecturer in Fluid Dynamics, Brunel University London]{.affiliation}
+[Senior Lecturer in Fluid Dynamics, Brunel University London, UK]{.affiliation}
 
 Specialist in multi-scale simulation methods combining particle and continuum approaches. His work includes coupled atomistic-continuum simulations and applications to nucleate boiling and film rupture.
 
@@ -111,7 +111,7 @@ Specialist in multi-scale simulation methods combining particle and continuum ap
 
 ::: {.speaker-info}
 ### Dmitry Nerukh
-[Senior Lecturer, Aston University]{.affiliation}
+[Senior Lecturer, Aston University, UK]{.affiliation}
 
 Expert in hybrid hydrodynamics/molecular dynamics multiscale modelling. His research includes atomistic simulations of viral systems and protein folding dynamics.
 
