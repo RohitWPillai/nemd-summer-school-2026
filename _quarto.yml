@@ -16,7 +16,7 @@ website:
       - href: speakers.qmd
         text: Speakers
       - href: registration.qmd
-        text: Registration
+        text: Apply
 
 format:
   html:
