@@ -14,11 +14,12 @@ The summer school runs over two intensive days, covering fundamentals through to
 
 Many molecular simulation schools focus either on broad introductions to molecular dynamics or on specific techniques such as machine-learning potentials.
 
-This school takes a different approach. We focus on **non-equilibrium molecular dynamics for liquids and interfaces**, emphasising:
+This school takes a different approach. We focus on **non-equilibrium molecular dynamics for fluids and interfaces**, emphasising:
 
 - physical understanding of transport processes
-- practical methods for extracting viscosity, heat flux, slip, and surface tension
-- common pitfalls and uncertainty in non-equilibrium simulations
+- practical methods for extracting slip lengths, heat fluxes, and interfacial properties
+- auto-correlation techniques for transport coefficients
+- hands-on experience with LAMMPS on ARCHER2
 - connecting molecular-scale results to continuum and engineering models
 
 The aim is not to cover all of molecular simulation, but to provide a **coherent and accessible foundation** for researchers who want to use MD to study transport and interfacial phenomena with confidence.
@@ -41,7 +42,6 @@ The aim is not to cover all of molecular simulation, but to provide a **coherent
 | 14:30 – 16:30 | **Hands-on: Applying NEMD Techniques on ARCHER2** | EPCC |
 | 16:30 – 17:00 | *Coffee Break* | |
 | 17:00 – 18:00 | **The Landscape of NEMD Applications** | Xinyan Wang |
-| 19:00 | *Summer School Dinner* | |
 
 :::
 
