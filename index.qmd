@@ -17,7 +17,9 @@ A 2-day intensive summer school on Non-Equilibrium Molecular Dynamics (NEMD) app
 <span>6-7 July 2026</span> | <span>University of Edinburgh</span>
 :::
 
-[Register Now](registration.qmd){.btn-register}
+[Apply Now](https://forms.cloud.microsoft/e/8USEaip43H){.btn-register}
+
+Limited to 40 participants | Applications reviewed on a rolling basis
 
 :::
 :::
@@ -34,21 +36,21 @@ We focus on the **fundamental ideas, practical techniques, and common pitfalls**
 
 The school is aimed at early-career researchers who:
 
-- already simulate fluids but want **rigorous NEMD foundations**, and/or
-- are new to NEMD for **fluids and interfaces**.
+- already use MD for fluids but want **rigorous grounding in NEMD theory**, and/or
+- are new to NEMD and want to apply it to **fluids and interfaces**.
 
-**No prior experience with non-equilibrium methods is assumed.**
+**No prior NEMD experience is assumed.**
 
 The programme covers:
 
 - **Fundamentals:** NEMD theory for fluids and interfaces
-- **Interfacial properties:** solid-liquid and liquid-vapour systems
+- **Interfacial properties:** solid/liquid/vapour systems
 - **Transport phenomena:** slip lengths, heat fluxes, and interfacial thermal transport
 - **Auto-correlation methods:** extracting transport properties from simulations
 - **Machine learning potentials:** for fluids and interfaces
 - **Multiscale modelling:** linking molecular results to continuum descriptions
 - **Applications:** current research landscape and industrial use cases
-- **Hands-on HPC sessions:** run real simulations on ARCHER2, the UK's national supercomputer, with dedicated support from EPCC training experts
+- **Hands-on HPC sessions:** run LAMMPS simulations on ARCHER2, the UK's national supercomputer, with dedicated support from EPCC training experts
 
 The emphasis throughout is on **physical understanding, reproducible workflows, and transferable skills**, rather than black-box simulation.
 
