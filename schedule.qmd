@@ -31,15 +31,15 @@ The aim is not to cover all of molecular simulation, but to provide a **coherent
 | Time | Session | Speaker(s) |
 |------|---------|---------|
 | 08:15 – 08:45 | Registration & Welcome Coffee | |
-| 08:45 – 09:00 | **Opening & Introduction to Summer School** | Rohit Pillai & Edward Smith |
+| 08:45 – 09:00 | **Opening & Introduction to Summer School** | Rohit Pillai |
 | 09:00 – 10:30 | **Fundamentals of NEMD for Fluids and Interfaces** | Peter Daivis |
 | 10:30 – 11:00 | *Coffee Break* | |
-| 11:00 – 12:00 | **Writing a Basic NEMD Solver** | Edward Smith |
+| 11:00 – 12:00 | **NEMD Techniques: Interfacial Properties of Solid-Liquid Systems** | Nicodemo Di Pasquale |
 | 12:00 – 13:00 | **NEMD Techniques: Slip Lengths & Flows Past Surfaces** | Samy Merabia |
 | 13:00 – 14:30 | *Lunch* | |
-| 14:30 – 16:30 | **Hands-on Session on NEMD Techniques on HPCs** | EPCC |
+| 14:30 – 16:30 | **Hands-on: Applying NEMD Techniques on ARCHER2** | EPCC |
 | 16:30 – 17:00 | *Coffee Break* | |
-| 17:00 – 18:00 | **The Landscape of NEMD Applications** | Xinyan Wang & Eleonora Ricci |
+| 17:00 – 18:00 | **The Landscape of NEMD Applications** | Xinyan Wang |
 | 19:00 | *Summer School Dinner* | |
 
 :::
@@ -51,21 +51,21 @@ The aim is not to cover all of molecular simulation, but to provide a **coherent
 | Time | Session | Speaker(s) |
 |------|---------|---------|
 | 08:30 – 09:00 | Coffee | |
-| 09:00 – 10:00 | **NEMD Techniques: Bubbles, Drops & Surface Tension** | Duncan Dockar |
-| 10:00 – 11:00 | **NEMD Techniques: Correlations** | Jesper Hansen |
+| 09:00 – 10:00 | **NEMD Techniques: Liquid/vapour Interfaces ** | Duncan Dockar |
+| 10:00 – 11:00 | **NEMD Techniques: Auto-correlations for Liquids and Interfaces** | Jesper Hansen |
 | 11:00 – 11:30 | *Coffee Break* | |
-| 11:30 – 13:00 | **Machine Learning Potentials for Fluids** | TBC |
+| 11:30 – 13:00 | **Machine Learning Potentials for Fluids** | Edward Smith |
 | 13:00 – 14:30 | *Lunch* | |
-| 14:30 – 16:30 | **Hands-on Session on NEMD Techniques on HPCs** | EPCC |
+| 14:30 – 16:30 | **Hands-on: Applying NEMD Techniques on ARCHER2** | EPCC |
 | 16:30 – 17:00 | *Coffee Break* | |
 | 17:00 – 17:30 | **Multiscale Modelling: Nano to Continuum** | Dmitry Nerukh |
-| 17:30 – 18:00 | **NEMD in Industry Applications** | TEL |
+| 17:30 – 18:00 | **NEMD in Industrial Applications** | TEL |
 
 :::
 
 ---
 
-**Note:** Schedule is preliminary and subject to change.
+**Note:** Schedule is preliminary and subject to change. Each day follows a morning theory, afternoon practice format: concepts introduced in morning lectures are applied during hands-on sessions on ARCHER2, the UK's national supercomputer, with support from EPCC training staff.
 
 ### Venue
 

@@ -26,7 +26,7 @@ A 2-day intensive summer school on Non-Equilibrium Molecular Dynamics (NEMD) app
 
 ## About the Summer School
 
-**Non-Equilibrium Molecular Dynamics (NEMD)** is increasingly used to study liquids and interfaces in regimes where continuum descriptions break down — from nanoscale flows and wetting to heat transfer, lubrication, and semiconductor processing. Yet for many researchers, NEMD remains difficult to access: its fundamentals are rarely taught in a unified way, and practical guidance on extracting reliable transport properties is often scattered across the literature.
+**Non-Equilibrium Molecular Dynamics (NEMD)** is increasingly used to study liquids and interfaces in regimes where continuum descriptions break down, from nanoscale flows and wetting to heat transfer, lubrication, and semiconductor processing. Yet for many researchers, NEMD remains difficult to access: its fundamentals are rarely taught in a unified way, and practical guidance on extracting reliable transport properties is often scattered across the literature.
 
 **This summer school is designed to bridge that gap.**
 
@@ -41,12 +41,13 @@ The school is aimed at early-career researchers who:
 
 The programme covers:
 
-- **MD fundamentals, revisited** — core theory and modelling assumptions, including a guided session on building a simple MD solver to demystify how simulations work
-- **Non-equilibrium methods for liquids and interfaces** — imposing flow and thermal gradients, and computing viscosity, heat flux, slip lengths, and surface tension
-- **Practical NEMD workflows** — thermostats, driving methods, finite-size effects, and uncertainty in transport coefficients
-- **Multiscale connections** — linking molecular results to continuum descriptions and engineering models
-- **Software and modern tools** — LAMMPS, Python-based workflows, and machine-learning potentials
-- **Emerging applications** — how NEMD is used in current research and industrially relevant problems, including semiconductor and thermal-fluid systems
+- **MD fundamentals, revisited:** core theory and modelling assumptions, including a guided session on building a simple MD solver to demystify how simulations work
+- **Non-equilibrium methods for liquids and interfaces:** imposing flow and thermal gradients, and computing viscosity, heat flux, slip lengths, and surface tension
+- **Practical NEMD workflows:** thermostats, driving methods, finite-size effects, and uncertainty in transport coefficients
+- **Multiscale connections:** linking molecular results to continuum descriptions and engineering models
+- **Software and modern tools:** LAMMPS, Python-based workflows, and machine-learning potentials
+- **Emerging applications:** how NEMD is used in current research and industrially relevant problems, including semiconductor and thermal-fluid systems
+- **Hands-on HPC sessions:** apply techniques on ARCHER2, the UK's national supercomputer, with support from EPCC
 
 The emphasis throughout is on **physical understanding, reproducible workflows, and transferable skills**, rather than black-box simulation.
 
