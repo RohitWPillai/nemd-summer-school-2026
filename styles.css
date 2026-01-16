@@ -57,6 +57,27 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--accent-light) !important;
 }
 
+.navbar-toggler-icon {
+  filter: invert(1);
+}
+
+.navbar .bi-search,
+.navbar .navbar-toggler,
+.navbar .aa-DetachedSearchButton,
+.navbar [aria-label="Search"] {
+  color: white !important;
+}
+
+.navbar button.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+.navbar .aa-DetachedSearchButton svg,
+.navbar .aa-SubmitIcon {
+  color: white !important;
+  fill: white !important;
+}
+
 /* ===== Hero Section ===== */
 .hero {
   min-height: 100vh;
