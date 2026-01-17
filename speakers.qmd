@@ -17,7 +17,7 @@ Our speakers bring decades of combined expertise in molecular dynamics, computat
 ### Jesper Schmidt Hansen
 [Professor, Roskilde University, Denmark]{.affiliation}
 
-Expert in computational fluid dynamics, molecular dynamics simulations, and nanofluidics. His research focuses on nonequilibrium processes and viscoelastic models for complex fluids.
+Expert in computational fluid dynamics and molecular dynamics simulations. His research focuses on nonequilibrium processes, viscoelastic fluids, and the use of auto-correlation methods to extract transport properties from simulations.
 
 [View profile →](https://forskning.ruc.dk/en/persons/jschmidt/)
 :::
@@ -29,7 +29,7 @@ Expert in computational fluid dynamics, molecular dynamics simulations, and nano
 ### Samy Merabia
 [Senior Research Director, CNRS Lyon, France]{.affiliation}
 
-Specialist in thermal transport at the nanoscale using molecular dynamics simulations. His work spans nanofluidics, condensed matter systems, and interfacial thermal conductance.
+Specialist in nanoscale transport using molecular dynamics simulations. His work spans nanofluidics, slip at solid-liquid interfaces, wetting phenomena, and interfacial thermal conductance.
 
 [View profile →](https://smerabia8.wixsite.com/monsite)
 :::
@@ -53,7 +53,7 @@ Specialist in polymer and colloid physics, computer simulation using equilibrium
 ### Xinyan Wang
 [Professor, Brunel University London, UK]{.affiliation}
 
-UKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion engines. Associate Principal Editor for the journal *Fuel*.
+UKRI Future Leaders Fellow applying molecular dynamics to energy and propulsion systems. Her work bridges fundamental NEMD research and industrial applications in fuels and thermal-fluid systems.
 
 [View profile →](https://www.brunel.ac.uk/people/xinyan-wang)
 :::
@@ -65,7 +65,7 @@ UKRI Future Leaders Fellow focusing on novel fuels and low-carbon combustion eng
 ### Donatas Surblys
 [Associate Professor, Tohoku University, Japan]{.affiliation}
 
-Expert in molecular dynamics simulations of interfaces, wetting phenomena, and membrane systems. PhD in Mechanical Engineering from Osaka University.
+Expert in molecular dynamics simulations of interfaces, with a focus on heat fluxes, interfacial thermal transport, and wetting phenomena at solid-liquid boundaries.
 
 [View profile →](https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html)
 :::
@@ -77,7 +77,7 @@ Expert in molecular dynamics simulations of interfaces, wetting phenomena, and m
 ### Nicodemo Di Pasquale
 [Associate Professor, University of Bologna, Italy]{.affiliation}
 
-Researcher in the Department of Industrial Chemistry focusing on analysis, design, and control of chemical processes.
+Specialist in molecular simulations of solid-liquid interfaces, with expertise in surface interactions, adsorption phenomena, and NEMD methods for interfacial transport.
 
 [View profile →](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en)
 :::
@@ -101,7 +101,7 @@ Expert in nanobubbles for water treatment, molecular dynamics, and nanoscale mul
 ### Edward Smith
 [Senior Lecturer in Fluid Dynamics, Brunel University London, UK]{.affiliation}
 
-Specialist in multi-scale simulation methods combining particle and continuum approaches. His work includes coupled atomistic-continuum simulations and applications to nucleate boiling and film rupture.
+Specialist in multi-scale simulation methods combining particle and continuum approaches. His work includes coupled atomistic-continuum simulations, and the application of machine learning potentials to fluid dynamics problems.
 
 [View profile →](https://www.brunel.ac.uk/people/edward-smith)
 :::
