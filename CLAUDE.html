@@ -165,14 +165,24 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="nemd-summer-school-2026" class="level1">
 <h1>NEMD Summer School 2026</h1>
-<p>Website for the NEMD for Fluid Dynamics and Interfacial Phenomena Summer School.</p>
+<p>Website for the NEMD for Fluids and Interfaces Summer School.</p>
 <section id="event-details" class="level2">
 <h2 class="anchored" data-anchor-id="event-details">Event Details</h2>
 <ul>
 <li><strong>Dates</strong>: 6-7 July 2026</li>
 <li><strong>Location</strong>: King’s Buildings Campus, University of Edinburgh</li>
-<li><strong>Fee</strong>: £100 (includes free access to NEMD Conference 8-10 July)</li>
-<li><strong>Sponsors</strong>: Tokyo Electron, CCP5</li>
+<li><strong>Fee</strong>: £100 (includes free access to NEMD Conference 8-10 July, lunches all 5 days)</li>
+<li><strong>Capacity</strong>: 40 participants</li>
+<li><strong>Sponsors</strong>: Tokyo Electron, CCP5, EPCC</li>
+<li><strong>Custom domain</strong>: nemd-school.org</li>
+</ul>
+</section>
+<section id="application-process" class="level2">
+<h2 class="anchored" data-anchor-id="application-process">Application Process</h2>
+<p>Applications via Microsoft Form (linked from website). Rolling review - successful applicants invited to pay. Applications close 31 March 2026.</p>
+<ul>
+<li><strong>Form</strong>: https://forms.cloud.microsoft/e/8USEaip43H</li>
+<li><strong>Contact</strong>: nemd2026@ed.ac.uk</li>
 </ul>
 </section>
 <section id="tech-stack" class="level2">
@@ -181,6 +191,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><strong>Framework</strong>: Quarto</li>
 <li><strong>Styling</strong>: Custom CSS with hero image</li>
 <li><strong>Hosting</strong>: GitHub Pages (via GitHub Actions)</li>
+<li><strong>Domain</strong>: nemd-school.org (Porkbun, DNS → GitHub Pages)</li>
 </ul>
 </section>
 <section id="local-development" class="level2">
@@ -193,26 +204,36 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="project-structure" class="level2">
 <h2 class="anchored" data-anchor-id="project-structure">Project Structure</h2>
-<pre><code>_quarto.yml       # Site configuration
+<pre><code>_quarto.yml       # Site configuration, navbar
 index.qmd         # Homepage with hero image
-schedule.qmd      # Program/timetable
-speakers.qmd      # Speaker profiles
-registration.qmd  # Registration info
-styles.css        # Custom styles (hero, cards)
+schedule.qmd      # Program/timetable (Day 1 &amp; 2)
+speakers.qmd      # 9 speaker profiles with countries
+registration.qmd  # Application info, fees, key dates
+styles.css        # Custom styles (hero, cards, navbar)
+CNAME             # Custom domain config
 images/
-  hero.png        # Hero background image</code></pre>
+  hero.png        # Hero background image
+  tel-logo.png    # Tokyo Electron sponsor logo
+  ccp5-logo.png   # CCP5 sponsor logo
+  epcc-logo.png   # EPCC sponsor logo
+  favicon.png     # Browser tab icon</code></pre>
 </section>
-<section id="deployment" class="level2">
-<h2 class="anchored" data-anchor-id="deployment">Deployment</h2>
-<p>GitHub Actions workflow automatically builds and deploys to GitHub Pages.</p>
+<section id="key-features" class="level2">
+<h2 class="anchored" data-anchor-id="key-features">Key Features</h2>
+<ul>
+<li>Application-based registration (not direct payment)</li>
+<li>Hands-on sessions using LAMMPS on ARCHER2 (EPCC support)</li>
+<li>Free conference attendance included</li>
+<li>Rolling application review</li>
+</ul>
 </section>
 <section id="speakers" class="level2">
 <h2 class="anchored" data-anchor-id="speakers">Speakers</h2>
-<p>9 confirmed speakers - bios sourced from institutional websites. Photos to be added when received from speakers.</p>
+<p>9 confirmed speakers from Denmark, France, Australia, UK, Japan, Italy. Bios sourced from institutional websites.</p>
 </section>
-<section id="registration" class="level2">
-<h2 class="anchored" data-anchor-id="registration">Registration</h2>
-<p>Currently placeholder - awaiting university payment system details.</p>
+<section id="deployment" class="level2">
+<h2 class="anchored" data-anchor-id="deployment">Deployment</h2>
+<p>GitHub Actions workflow automatically builds and deploys to GitHub Pages. Custom domain configured via CNAME file and Porkbun DNS.</p>
 
 
 </section>
