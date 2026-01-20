@@ -14,7 +14,7 @@ A 2-day intensive summer school on Non-Equilibrium Molecular Dynamics (NEMD) app
 :::
 
 ::: {.event-details}
-<span>6-7 July 2026</span> | <span>University of Edinburgh</span>
+<span>6-7 July 2026</span> | <span>The University of Edinburgh</span>
 :::
 
 [Apply Now](https://forms.cloud.microsoft/e/8USEaip43H){.btn-register}
@@ -39,7 +39,7 @@ The school is aimed at early-career researchers who:
 - already use MD for fluids but want **rigorous grounding in NEMD theory**, and/or
 - are new to NEMD and want to apply it to **fluids and interfaces**.
 
-**No prior NEMD experience is assumed.**
+**Some knowledge of equilibrium statistical mechanics and molecular simulation methods is useful but not essential.**
 
 The programme covers:
 
@@ -81,19 +81,19 @@ Summer school attendees receive **free access** to the 3-day NEMD Conference imm
 ### Organising Committee
 
 **Conference Chair**<br>
-[Rohit Pillai](https://eng.ed.ac.uk/about/people/dr-rohit-pillai), University of Edinburgh
+[Rohit Pillai](https://eng.ed.ac.uk/about/people/dr-rohit-pillai), The University of Edinburgh
 
 **Committee Members**<br>
-[Santiago Castrillon](https://eng.ed.ac.uk/about/people/dr-santiago-romero-vargas-castrillon), University of Edinburgh<br>
+[Santiago Castrillon](https://eng.ed.ac.uk/about/people/dr-santiago-romero-vargas-castrillon), The University of Edinburgh<br>
 [Saikat Datta](https://www.swansea.ac.uk/staff/saikat.datta/), Swansea University<br>
-[Duncan Dockar](https://eng.ed.ac.uk/about/people/mr-duncan-alexander-dockar), University of Edinburgh<br>
-[Eleonora Ricci](https://eng.ed.ac.uk/about/people/dr-eleonora-ricci), University of Edinburgh<br>
+[Duncan Dockar](https://eng.ed.ac.uk/about/people/mr-duncan-alexander-dockar), The University of Edinburgh<br>
+[Eleonora Ricci](https://eng.ed.ac.uk/about/people/dr-eleonora-ricci), The University of Edinburgh<br>
 [Edward Smith](https://www.brunel.ac.uk/people/edward-smith), Brunel University
 
 :::
 
 ::: {.footer}
 
-**NEMD Summer School 2026** | University of Edinburgh | [Contact the organisers](mailto:nemd2026@ed.ac.uk)
+**NEMD Summer School 2026** | The University of Edinburgh | [Contact the organisers](mailto:nemd2026@ed.ac.uk)
 
 :::
