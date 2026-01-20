@@ -66,4 +66,14 @@ images/
 
 ## Deployment
 
-GitHub Actions workflow automatically builds and deploys to GitHub Pages. Custom domain configured via CNAME file and Porkbun DNS.
+GitHub Actions workflow (`.github/workflows/publish.yml`) builds the site and pushes to the `gh-pages` branch.
+
+**GitHub Pages settings** (Settings → Pages):
+- Source: **Deploy from a branch** (NOT "GitHub Actions")
+- Branch: **gh-pages** / **(root)**
+
+**Custom domain** (nemd-school.org):
+- CNAME file in repo contains `nemd-school.org`
+- DNS configured at Porkbun with A records pointing to GitHub Pages IPs
+
+**Troubleshooting**: If site doesn't update after push, check that Pages source is set to "Deploy from a branch" with gh-pages selected.
