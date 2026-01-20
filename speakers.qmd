@@ -87,7 +87,7 @@ Specialist in molecular simulations of solid-liquid interfaces, with expertise i
 
 ::: {.speaker-info}
 ### Duncan Dockar
-[Royal Academy of Engineering Research Fellow, University of Edinburgh, UK]{.affiliation}
+[Royal Academy of Engineering Research Fellow, The University of Edinburgh, UK]{.affiliation}
 
 Expert in nanobubbles for water treatment, molecular dynamics, and nanoscale multiphase fluid simulation. His research focuses on cavitation dynamics and surface nanobubble behaviour.
 
