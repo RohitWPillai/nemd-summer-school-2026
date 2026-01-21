@@ -50,7 +50,7 @@ The programme covers:
 - **Machine learning potentials:** for fluids and interfaces
 - **Multiscale modelling:** linking molecular results to continuum descriptions
 - **Applications:** current research landscape and industrial use cases
-- **Hands-on HPC sessions:** run LAMMPS simulations on ARCHER2, the UK's national supercomputer, with dedicated support from EPCC training experts
+- **Hands-on HPC sessions:** run LAMMPS simulations on ARCHER2, the UK's national supercomputer, with dedicated support from [EPCC](https://www.epcc.ed.ac.uk/) (Edinburgh Parallel Computing Centre) training experts
 
 The emphasis throughout is on **physical understanding, reproducible workflows, and transferable skills**, rather than black-box simulation.
 
