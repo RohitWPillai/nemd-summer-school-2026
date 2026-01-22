@@ -17,7 +17,7 @@ Our speakers bring decades of combined expertise in molecular dynamics, computat
 ### Jesper Schmidt Hansen
 [Professor, Roskilde University, Denmark]{.affiliation}
 
-Expert in computational fluid dynamics and molecular dynamics simulations. His research focuses on nonequilibrium processes, viscoelastic fluids, and the use of auto-correlation methods to extract transport properties from simulations.
+Expert in computational fluid dynamics and molecular dynamics simulations. His research focuses on nonequilibrium processes, viscoelastic fluids, and the breakdown of classical hydrodynamics at the nanoscale.
 
 [View profile →](https://forskning.ruc.dk/en/persons/jschmidt/)
 :::

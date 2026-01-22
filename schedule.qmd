@@ -7,7 +7,7 @@ toc: false
 
 ## Programme
 
-The summer school runs over two intensive days, covering fundamentals through to cutting-edge applications of NEMD for **fluids and interfaces**. Topics include slip lengths, heat fluxes, interfacial thermal transport, liquid-vapour interfaces, auto-correlation methods, machine learning potentials, and multiscale modelling, with hands-on sessions on ARCHER2.
+The summer school runs over two intensive days, covering fundamentals through to cutting-edge applications of NEMD for **fluids and interfaces**. Topics include slip lengths, heat fluxes, interfacial thermal transport, liquid-vapour interfaces, nanoscale hydrodynamics, machine learning potentials, and multiscale modelling, with hands-on sessions on ARCHER2.
 
 ::: {.callout-tip}
 ## How is this summer school different?
@@ -18,7 +18,7 @@ This school takes a different approach. We focus on **non-equilibrium molecular 
 
 - physical understanding of transport processes
 - practical methods for extracting slip lengths, heat fluxes, and interfacial properties
-- auto-correlation techniques for transport coefficients
+- nanoscale hydrodynamics and extensions to classical theory
 - hands-on experience with LAMMPS on ARCHER2
 - connecting molecular-scale results to continuum and engineering models
 
