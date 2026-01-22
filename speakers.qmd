@@ -77,7 +77,7 @@ Expert in molecular dynamics simulations of interfaces, with a focus on heat flu
 ### Nicodemo Di Pasquale
 [Associate Professor, University of Bologna, Italy]{.affiliation}
 
-Specialist in molecular simulations of solid-liquid interfaces, with expertise in surface interactions, adsorption phenomena, and NEMD methods for interfacial transport.
+Expert in multiscale modelling and the coupling of continuum and discrete methods, with particular emphasis on molecular simulations of solid-liquid interfaces. Specialized in surface interactions, thermodynamics, and adsorption phenomena.
 
 [View profile →](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en)
 :::
