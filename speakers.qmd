@@ -53,7 +53,7 @@ Specialist in polymer and colloid physics, computer simulation using equilibrium
 ### Xinyan Wang
 [Professor, Brunel University London, UK]{.affiliation}
 
-UKRI Future Leaders Fellow applying molecular dynamics to energy and propulsion systems. Her work bridges fundamental NEMD research and industrial applications in fuels and thermal-fluid systems.
+UKRI Future Leaders Fellow applying molecular dynamics to energy and propulsion systems. His work bridges fundamental MD research and industrial applications in fuels and thermal-fluid systems
 
 [View profile →](https://www.brunel.ac.uk/people/xinyan-wang)
 :::
