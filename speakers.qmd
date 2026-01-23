@@ -29,7 +29,7 @@ Expert in computational fluid dynamics and molecular dynamics simulations. His r
 ### Samy Merabia
 [Senior Research Director, CNRS Lyon, France]{.affiliation}
 
-Specialist in nanoscale transport using molecular dynamics simulations. His work spans nanofluidics, slip at solid-liquid interfaces, wetting phenomena, and interfacial thermal conductance.
+Specialist in nanoscale transport using molecular dynamics simulations. His work spans nanoscale thermal transport, nanofluidics, slip and interfacial thermal conductance at solid-liquid interfaces.
 
 [View profile →](https://smerabia8.wixsite.com/monsite)
 :::
