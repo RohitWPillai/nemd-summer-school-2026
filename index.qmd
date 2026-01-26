@@ -34,7 +34,7 @@ Limited to 40 participants | Applications reviewed on a rolling basis
 
 We focus on the **fundamental ideas, practical techniques, and common pitfalls** of using molecular dynamics to study non-equilibrium transport in liquids and at interfaces, with an emphasis on results that can be connected to continuum models and emerging technological applications.
 
-The school is aimed at early-career researchers who:
+The school is aimed at researchers who:
 
 - already use MD for fluids but want **rigorous grounding in NEMD theory**, and/or
 - are new to NEMD and want to apply it to **fluids and interfaces**.
