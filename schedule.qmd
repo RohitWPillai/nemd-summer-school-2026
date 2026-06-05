@@ -39,7 +39,7 @@ toc: false
 | 09:00 – 10:00 | **The Liquid-Vapour Interface: Surface Tension and Structure** | [Duncan Dockar](https://multiscaleflowx.github.io/team/dockar-duncan/) |
 | 10:00 – 11:00 | **Microscopic Structure of Liquid Interfaces: Capillary Waves and Intrinsic Profiles** | [Marcello Sega](https://profiles.ucl.ac.uk/89616-marcello-sega) |
 | 11:00 – 11:30 | *Coffee Break* | |
-| 11:30 – 12:30 | **Nanoscale Hydrodynamics: The Limits of the Continuum Description** | [Jesper Hansen](https://forskning.ruc.dk/en/persons/jschmidt/) |
+| 11:30 – 12:30 | **Nanoscale Hydrodynamics** | [Jesper Hansen](https://forskning.ruc.dk/en/persons/jschmidt/) |
 | 12:30 – 13:30 | *Lunch* | |
 | 13:30 – 15:30 | **Hands-on session: Liquid-Vapour Interfaces** | [EPCC](https://www.epcc.ed.ac.uk/) |
 | 15:30 – 16:00 | *Coffee Break* | |
