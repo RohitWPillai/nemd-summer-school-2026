@@ -38,7 +38,7 @@ anchor-sections: false
 <p class="lec-summary">This lecture will introduce the structural and thermodynamic properties of solid-liquid interfaces. It will build physical intuition for how a fluid is organised against a solid wall, from fluid layering and the strength of the wall-fluid interaction through to interfacial free energy and wetting, with the density profile as one accessible diagnostic of this broader picture. It will then set out a working framework for relating the density profile to the wider interfacial thermodynamics, such as contact angles. Finally, guidance will be given on choosing simulation parameters and avoiding common pitfalls when characterising interfacial structure.</p>
 <div class="speaker-block">
 <span class="lec-by"><span class="name">Nicodemo Di Pasquale</span><span class="sep">&middot;</span><span class="aff">Associate Professor, University of Bologna, Italy</span></span>
-<p class="lec-expertise">He works on multiscale modelling and the coupling of continuum and discrete methods, with an emphasis on molecular simulation of solid-liquid interfaces, surface interactions, thermodynamics, and adsorption.</p>
+<p class="lec-expertise">Expert in multiscale modelling and the coupling of continuum and discrete methods, with particular emphasis on molecular simulations of solid–liquid interfaces. Specialized in surface interactions, thermodynamics, and adsorption phenomena.</p>
 <span class="lec-link"><a href="https://www.unibo.it/sitoweb/nicodemo.dipasquale/en">View profile &rarr;</a></span>
 </div>
 </div>
