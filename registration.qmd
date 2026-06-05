@@ -1,64 +1,9 @@
 ---
-title: "Registration"
+title: "Contact"
 toc: false
 ---
 
 ::: {.content-section}
-
-## Apply for the Summer School
-
-Join us for two days of intensive learning on Non-Equilibrium Molecular Dynamics with world-leading experts. **Places are limited to 40 participants.**
-
-::: {.registration-box}
-
-### Registration Fee
-
-::: {.fee}
-£100
-:::
-
-::: {.includes}
-Your registration includes:
-:::
-
-- Full access to all lectures and sessions (6-7 July)
-- **FREE** attendance at NEMD Conference (8-10 July)
-- Lunches and coffee breaks (all 5 days)
-- Course materials and resources
-- Computing time on ARCHER2 for hands-on sessions
-
-[Apply Now](https://forms.cloud.microsoft/e/8USEaip43H){.btn-register}
-
-:::
-
-**How to apply:** Complete the short application form telling us about yourself and why you would like to attend. Applications are reviewed on a rolling basis and successful applicants will be notified promptly, so apply early to secure your place.
-
----
-
-### Key Dates
-
-| | |
-|---|---|
-| **Applications open** | Now |
-| **Applications close** | 31 March 2026 |
-| **Summer school** | 6-7 July 2026 |
-| **NEMD Conference** | 8-10 July 2026 |
-| **Venue** | King's Buildings Campus, The University of Edinburgh |
-
----
-
-### Who Should Attend?
-
-This summer school is ideal for:
-
-- **PhD students** using or learning MD for fluids and interfaces
-- **Postdocs** wanting rigorous foundations in NEMD techniques
-- **Academics** looking to apply NEMD to transport and interfacial phenomena
-- **Industry researchers** working on fluid dynamics and interfacial phenomena at the nanoscale
-
-No prior experience with NEMD is required, though familiarity with basic programming and physics concepts is helpful.
-
----
 
 ### Questions?
 

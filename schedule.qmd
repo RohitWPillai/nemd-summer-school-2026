@@ -1,47 +1,29 @@
 ---
-title: "Schedule"
+title: "Timetable"
 toc: false
 ---
 
 ::: {.content-section}
 
-## Programme
-
-The summer school runs over two intensive days, covering fundamentals through to cutting-edge applications of NEMD for **fluids and interfaces**. Topics include slip lengths, heat fluxes, interfacial thermal transport, liquid-vapour interfaces, nanoscale hydrodynamics, machine learning potentials, and multiscale modelling, with hands-on sessions on ARCHER2.
-
-::: {.callout-tip}
-## How is this summer school different?
-
-Many molecular simulation schools focus either on broad introductions to molecular dynamics or on specific techniques such as machine-learning potentials.
-
-This school takes a different approach. We focus on **non-equilibrium molecular dynamics for fluids and interfaces**, emphasising:
-
-- physical understanding of transport processes
-- practical methods for extracting slip lengths, heat fluxes, and interfacial properties
-- nanoscale hydrodynamics and extensions to classical theory
-- hands-on experience with LAMMPS on ARCHER2
-- connecting molecular-scale results to continuum and engineering models
-
-The aim is not to cover all of molecular simulation, but to provide a **coherent and accessible foundation** for researchers who want to use MD to study transport and interfacial phenomena with confidence.
-:::
-
 ::: {.schedule-day}
 
 ### Day 1: Monday, 6 July 2026
 
+*Solid-Liquid Interfaces*
+
 | Time | Session | Speaker(s) |
 |------|---------|---------|
-| 08:00 – 08:30 | Registration & Welcome Coffee | |
-| 08:30 – 08:45 | **Opening & Introduction to Summer School** | Rohit Pillai |
-| 08:45 – 09:45 | **Fundamentals of NEMD for Fluids and Interfaces** | Peter Daivis |
-| 09:45 – 10:15 | *Coffee Break* | |
-| 10:15 – 11:15 | **Interfacial Properties of Solid-Liquid Systems** | Nicodemo Di Pasquale |
-| 11:15 – 12:15 | **Slip Lengths & Flows Past Surfaces** | Samy Merabia |
-| 12:15 – 13:15 | **Heat Fluxes & Interfacial Thermal Transport** | Donatas Surblys |
-| 13:15 – 14:30 | *Lunch* | |
-| 14:30 – 16:30 | **Hands-on: Applying NEMD Techniques on ARCHER2** | EPCC |
+| 08:00 – 08:45 | Registration & Welcome Coffee | |
+| 08:45 – 09:00 | **Opening & Introduction to Summer School** | [Rohit Pillai](https://eng.ed.ac.uk/about/people/dr-rohit-pillai) |
+| 09:00 – 10:00 | **Fundamentals of NEMD for Fluids and Interfaces** | [Peter Daivis](https://www.rmit.edu.au/profiles/d/peter-daivis) |
+| 10:00 – 10:30 | *Coffee Break* | |
+| 10:30 – 11:30 | **Interfacial Properties of Solid-Liquid Systems** | [Nicodemo Di Pasquale](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en) |
+| 11:30 – 12:30 | **Slip Lengths & Flows Past Surfaces** | [Samy Merabia](https://smerabia8.wixsite.com/monsite) |
+| 12:30 – 13:30 | **Heat flux and interfacial thermal transport across the wall** | [Donatas Surblys](https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html) |
+| 13:30 – 14:30 | *Lunch* | |
+| 14:30 – 16:30 | **Hands-on session: Solid-Liquid Interfaces** | [EPCC](https://www.epcc.ed.ac.uk/) |
 | 16:30 – 17:00 | *Coffee Break* | |
-| 17:00 – 18:00 | **The Landscape of MD Applications** | Xinyan Wang |
+| 17:00 – 17:30 | **The Landscape of MD Applications: Nanobubbles for Energy and Fuels** | [Xinyan Wang](https://www.brunel.ac.uk/people/xinyan-wang) |
 
 :::
 
@@ -49,18 +31,20 @@ The aim is not to cover all of molecular simulation, but to provide a **coherent
 
 ### Day 2: Tuesday, 7 July 2026
 
+*Liquid-Vapour Interfaces*
+
 | Time | Session | Speaker(s) |
 |------|---------|---------|
 | 08:30 – 09:00 | Coffee | |
-| 09:00 – 10:00 | **Liquid/Vapour Interfaces** | Duncan Dockar |
-| 10:00 – 11:00 | **Nanoscale hydrodynamics** | Jesper Hansen |
+| 09:00 – 10:00 | **The Liquid-Vapour Interface: Surface Tension and Structure** | [Duncan Dockar](https://multiscaleflowx.github.io/team/dockar-duncan/) |
+| 10:00 – 11:00 | **Microscopic structure of liquid interfaces: capillary waves and intrinsic profiles** | [Marcello Sega](https://profiles.ucl.ac.uk/89616-marcello-sega) |
 | 11:00 – 11:30 | *Coffee Break* | |
-| 11:30 – 13:00 | **Machine Learning Potentials for Fluids & Interfaces** | Edward Smith |
-| 13:00 – 14:30 | *Lunch* | |
-| 14:30 – 16:30 | **Hands-on: Applying NEMD Techniques on ARCHER2** | EPCC |
-| 16:30 – 17:00 | *Coffee Break* | |
-| 17:00 – 17:30 | **Multiscale Modelling: Nano to Continuum** | Dmitry Nerukh |
-| 17:30 – 18:00 | **NEMD in Industrial Applications** | TEL |
+| 11:30 – 12:30 | **Nanoscale Hydrodynamics: The Limits of the Continuum Description** | [Jesper Hansen](https://forskning.ruc.dk/en/persons/jschmidt/) |
+| 12:30 – 13:30 | *Lunch* | |
+| 13:30 – 15:30 | **Hands-on session: Liquid-Vapour Interfaces** | [EPCC](https://www.epcc.ed.ac.uk/) |
+| 15:30 – 16:00 | *Coffee Break* | |
+| 16:00 – 16:45 | **Machine Learning Potentials: Fundamentals** | [Ioan-Bogdan Magdau](https://www.ncl.ac.uk/nes/people/profile/ioanmagdau.html) |
+| 16:45 – 17:30 | **Machine Learning Potentials for Fluids & Interfaces** | [Edward Smith](https://www.brunel.ac.uk/people/edward-smith) |
 
 :::
 
@@ -70,6 +54,6 @@ The aim is not to cover all of molecular simulation, but to provide a **coherent
 
 ### Venue
 
-All sessions will be held at the **King's Buildings Campus, The University of Edinburgh**. Detailed venue information and directions will be provided to registered participants.
+All sessions will be held at **[Rowan Studio](https://information-services.ed.ac.uk/computing/audio-visual-multi-media/teaching-spaces/interactive-360-degree-images-of-teaching-spaces/nucleus/nucleus-206-rowan), King's Buildings Campus, The University of Edinburgh**. Detailed venue information and directions will be provided to registered participants.
 
 :::
