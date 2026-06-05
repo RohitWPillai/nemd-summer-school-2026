@@ -16,8 +16,8 @@ toc: false
 | 08:00 – 08:45 | Registration & Welcome Coffee | |
 | 08:45 – 09:00 | **Opening & Introduction to Summer School** | [Rohit Pillai](https://eng.ed.ac.uk/about/people/dr-rohit-pillai) |
 | 09:00 – 10:00 | **Fundamentals of NEMD for Fluids and Interfaces** | [Peter Daivis](https://www.rmit.edu.au/profiles/d/peter-daivis) |
-| 10:00 – 10:30 | *Coffee Break* | |
-| 10:30 – 11:30 | **Interfacial Properties of Solid-Liquid Systems** | [Nicodemo Di Pasquale](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en) |
+| 10:00 – 11:00 | **Interfacial Properties of Solid-Liquid Systems** | [Nicodemo Di Pasquale](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en) |
+| 11:00 – 11:30 | *Coffee Break* | |
 | 11:30 – 12:30 | **Slip Lengths & Flows Past Surfaces** | [Samy Merabia](https://smerabia8.wixsite.com/monsite) |
 | 12:30 – 13:30 | **Heat Flux and Interfacial Thermal Transport Across the Wall** | [Donatas Surblys](https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html) |
 | 13:30 – 14:30 | *Lunch* | |
