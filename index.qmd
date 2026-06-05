@@ -17,9 +17,9 @@ A 2-day intensive summer school on Non-Equilibrium Molecular Dynamics (NEMD) app
 <span>6-7 July 2026</span> | <span>The University of Edinburgh</span>
 :::
 
-[Apply Now](https://forms.cloud.microsoft/e/8USEaip43H){.btn-register}
+[Applications are now closed]{.btn-register}
 
-Limited to 40 participants | Applications reviewed on a rolling basis
+Limited to 40 participants
 
 :::
 :::
@@ -48,7 +48,7 @@ The programme covers:
 - **Transport phenomena:** slip lengths, heat fluxes, and interfacial thermal transport
 - **Nanoscale hydrodynamics:** when classical theory breaks down and how to extend it
 - **Machine learning potentials:** for fluids and interfaces
-- **Multiscale modelling:** linking molecular results to continuum descriptions
+- **Interfacial structure:** capillary waves and intrinsic profiles of liquid interfaces
 - **Applications:** current research landscape and industrial use cases
 - **Hands-on HPC sessions:** run LAMMPS simulations on ARCHER2, the UK's national supercomputer, with dedicated support from [EPCC](https://www.epcc.ed.ac.uk/) (Edinburgh Parallel Computing Centre) training experts
 

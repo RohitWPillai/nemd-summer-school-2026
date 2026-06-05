@@ -1,124 +1,161 @@
 ---
-title: "Speakers"
+title: "Programme"
 toc: false
+anchor-sections: false
 ---
 
-::: {.content-section}
+<div class="content-section programme">
 
-## World-Leading Experts in NEMD for Fluids and Interfaces
+<div class="prog-head">
+<h1 class="page-title">Programme</h1>
+<p class="prog-meta">10 lectures &middot; 6&ndash;7 July 2026 &middot; King's Buildings, Edinburgh</p>
+<p class="standfirst">Ten lectures across two days, paired with hands-on ARCHER2 sessions. Day 1 builds from NEMD fundamentals to solid-liquid interfaces; Day 2 moves to liquid-vapour interfaces and machine-learning potentials.</p>
+</div>
 
-Our speakers bring decades of combined expertise in molecular dynamics, computational fluid dynamics, and interfacial phenomena.
+<div class="programme-day day-1">
+<div class="day-header">
+<span class="day-kicker">Day 1 &middot; Monday 6 July</span>
+<h2>Solid-Liquid Interfaces</h2>
+</div>
 
-::: {.speaker-grid}
+<div class="lec-row">
+<div class="lec-rail"><span class="num">01</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Fundamentals of NEMD for Fluids and Interfaces</h3>
+<p class="lec-summary">This talk will introduce the main theoretical ideas underlying the design and interpretation of nonequilibrium molecular dynamics simulations of fluids subjected to boundary driven shear. It will consider why and when we should choose this technique, how we generate and control the flow, how to compute the properties of interest and what results we should expect. Both wide channel and narrow channel simulations will be considered. The physical modelling of effects that become strongly apparent at the nanoscale, such as slip, interfacial thermal resistance, spin coupling and density coupling will be briefly introduced in anticipation of more detailed treatments that will be given by the other speakers.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Peter Daivis</span><span class="sep">&middot;</span><span class="aff">Professor, RMIT University, Australia</span></span>
+<p class="lec-expertise">His research addresses the statistical mechanics and computer simulation of complex fluids, spanning equilibrium and non-equilibrium molecular dynamics, polymer and colloid physics, and molecular rheology.</p>
+<span class="lec-link"><a href="https://www.rmit.edu.au/profiles/d/peter-daivis">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-::: {.speaker-card}
+<div class="lec-row">
+<div class="lec-rail"><span class="num">02</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Interfacial Properties of Solid-Liquid Systems</h3>
+<p class="lec-summary">This lecture will introduce the structural and thermodynamic properties of solid-liquid interfaces. It will build physical intuition for how a fluid is organised against a solid wall, from fluid layering and the strength of the wall-fluid interaction through to interfacial free energy and wetting, with the density profile as one accessible diagnostic of this broader picture. It will then set out a working framework for relating the density profile to the wider interfacial thermodynamics, such as contact angles. Finally, guidance will be given on choosing simulation parameters and avoiding common pitfalls when characterising interfacial structure.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Nicodemo Di Pasquale</span><span class="sep">&middot;</span><span class="aff">Associate Professor, University of Bologna, Italy</span></span>
+<p class="lec-expertise">He works on multiscale modelling and the coupling of continuum and discrete methods, with an emphasis on molecular simulation of solid-liquid interfaces, surface interactions, thermodynamics, and adsorption.</p>
+<span class="lec-link"><a href="https://www.unibo.it/sitoweb/nicodemo.dipasquale/en">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-::: {.speaker-info}
-### Jesper Schmidt Hansen
-[Professor, Roskilde University, Denmark]{.affiliation}
+<div class="lec-row">
+<div class="lec-rail"><span class="num">03</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Slip Lengths &amp; Flows Past Surfaces</h3>
+<p class="lec-summary">The purpose of this lecture is to illustrate how molecular dynamics simulations help characterize nanoscale hydrodynamic flows near solid-liquid interfaces, particularly slip length and osmotic coefficients. First, I will introduce the phenomenology of slip length and osmotic response. I will then discuss the various methods employed to extract interface transport properties from molecular dynamics simulations, including non-equilibrium and Green-Kubo simulations. I will examine the impact of several factors such as work of adhesion, solid roughness, surface charge and liquid temperature, covering also supercooled liquid dynamics. Subsequently, osmotic phenomena will be tackled with an emphasis on thermoosmosis. Finally, I will briefly extend these considerations to the case of thermal slip at solid-liquid interfaces. This tutorial will draw in part on research results obtained in collaboration with L. Joly, Y. Yamaguchi and T. Omori.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Samy Merabia</span><span class="sep">&middot;</span><span class="aff">Senior Research Director, CNRS Lyon, France</span></span>
+<p class="lec-expertise">He uses molecular dynamics to study nanoscale transport, including thermal transport, nanofluidics, hydrodynamic slip, and interfacial thermal conductance at solid-liquid interfaces.</p>
+<span class="lec-link"><a href="https://smerabia8.wixsite.com/monsite">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-Expert in computational fluid dynamics and molecular dynamics simulations. His research focuses on nonequilibrium processes, viscoelastic fluids, and the breakdown of classical hydrodynamics at the nanoscale.
+<div class="lec-row">
+<div class="lec-rail"><span class="num">04</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Heat flux and interfacial thermal transport across the wall</h3>
+<p class="lec-summary">The lecture will introduce molecular dynamics simulations of heat transport across solid–liquid interfaces. A brief theoretical background will be provided to give an understanding on the physical interpretation of thermal transport inside both bulk material and over interfaces. A focus will be given to how heat flux propagates under non-equilibrium condition, resulting in temperature discontinuities that emerge at solid-liquid interfaces, and how this is connected to interfacial thermal resistance. The lecture will further present commonly used analysis methodologies for steady-state simulations, including the construction and interpretation of temperature profiles, evaluation of heat flux and obtaining interfacial thermal resistance values. Know-how will be provided on selecting appropriate simulation parameters, validating the results, and how to avoid common pitfalls. Finally, some more advanced analysis techniques will also be briefly introduced.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Donatas Surblys</span><span class="sep">&middot;</span><span class="aff">Associate Professor, Tohoku University, Japan</span></span>
+<p class="lec-expertise">He studies fluid interfaces using molecular dynamics, focusing on heat flux, interfacial thermal transport, and wetting at solid-liquid boundaries.</p>
+<span class="lec-link"><a href="https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-[View profile →](https://forskning.ruc.dk/en/persons/jschmidt/)
-:::
-:::
+<div class="lec-row">
+<div class="lec-rail"><span class="num">05</span></div>
+<div class="lec-body">
+<h3 class="lec-title">The Landscape of MD Applications: Nanobubbles for Energy and Fuels</h3>
+<p class="lec-summary">This lecture will use nanobubbles as a worked example of how molecular dynamics can take an atomistic picture of a fluid through to real-world engineering applications. It will show how these simulations capture the formation and stability of nanobubbles in both polar and nonpolar liquids, and how their presence alters the thermophysical and thermochemical behaviour of the host fluid. It will then connect these effects to applications of current interest in energy and decarbonisation, from the thermal performance of engineered working fluids to carbon dioxide hydrate formation and the combustion of fuels. The growing use of data-driven methods to analyse such simulations will also be touched on.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Xinyan Wang</span><span class="sep">&middot;</span><span class="aff">Professor, Brunel University London, UK</span></span>
+<p class="lec-expertise">A UKRI Future Leaders Fellow, he works on low-carbon fuels, combustion engines, and powertrain technologies, combining experiments, engine simulation, and molecular dynamics to link fundamental research with the industrial decarbonisation of transport.</p>
+<span class="lec-link"><a href="https://www.brunel.ac.uk/people/xinyan-wang">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-::: {.speaker-card}
+</div>
 
-::: {.speaker-info}
-### Samy Merabia
-[Senior Research Director, CNRS Lyon, France]{.affiliation}
+<div class="programme-day day-2">
+<div class="day-header">
+<span class="day-kicker">Day 2 &middot; Tuesday 7 July</span>
+<h2>Liquid-Vapour Interfaces &amp; ML Potentials</h2>
+</div>
 
-Specialist in nanoscale transport using molecular dynamics simulations. His work spans nanoscale thermal transport, nanofluidics, slip and interfacial thermal conductance at solid-liquid interfaces.
+<div class="lec-row">
+<div class="lec-rail"><span class="num">06</span></div>
+<div class="lec-body">
+<h3 class="lec-title">The Liquid-Vapour Interface: Surface Tension and Structure</h3>
+<p class="lec-summary">Opening the second day, this lecture will introduce the liquid-vapour interface as a thermodynamic and structural object. It will build physical intuition for surface tension as the free-energy cost of keeping the two phases apart, the microscopic origin of the pressure-tensor anisotropy at the interface, and the diffuse density transition between liquid and vapour. It will then present commonly used methods for measuring surface tension and the density structure across the interface from a molecular dynamics trajectory, together with guidance on choosing simulation parameters and how to avoid common pitfalls. These foundations are built on by the later liquid-vapour lectures, which treat the finer interfacial structure and the breakdown of continuum hydrodynamics at the nanoscale.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Duncan Dockar</span><span class="sep">&middot;</span><span class="aff">Royal Academy of Engineering Research Fellow, The University of Edinburgh, UK</span></span>
+<p class="lec-expertise">His research applies molecular dynamics to nanoscale multiphase flows, including cavitation, surface nanobubbles, and their role in water treatment.</p>
+<span class="lec-link"><a href="https://multiscaleflowx.github.io/team/dockar-duncan/">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-[View profile →](https://smerabia8.wixsite.com/monsite)
-:::
-:::
+<div class="lec-row">
+<div class="lec-rail"><span class="num">07</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Microscopic structure of liquid interfaces: capillary waves and intrinsic profiles</h3>
+<p class="lec-summary">This lecture will introduce the microscopic structure of liquid interfaces. It will build physical intuition for what the apparent density profile of a liquid-vapour interface actually shows once capillary-wave broadening is taken into account, separating the thermal roughening of the interface from its underlying molecular structure. It will then turn to the intrinsic profile and how it is reconstructed from a simulation trajectory, and show how the picture extends from a simple model fluid to water. Finally, guidance will be given on choosing simulation parameters and avoiding common pitfalls when resolving interfacial structure.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Marcello Sega</span><span class="sep">&middot;</span><span class="aff">Associate Professor, University College London, UK</span></span>
+<p class="lec-expertise">He studies the microscopic structure and dynamics of liquids and their interfaces, and develops computational-geometry methods that identify intrinsic interfaces and separate capillary-wave broadening from the underlying molecular structure.</p>
+<span class="lec-link"><a href="https://profiles.ucl.ac.uk/89616-marcello-sega">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-::: {.speaker-card}
+<div class="lec-row">
+<div class="lec-rail"><span class="num">08</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Nanoscale Hydrodynamics: The Limits of the Continuum Description</h3>
+<p class="lec-summary">This lecture will examine fluid flow at the nanoscale, where the molecular nature of the liquid can no longer be ignored. It will build physical intuition for when classical hydrodynamics is expected to hold and why it breaks down at molecular length scales, particularly near interfaces and under strong spatial gradients. It will then consider the distinction between local and non-local transport, where the response in one region depends on stress correlations extending over molecular distances, so that local transport coefficients such as viscosity are no longer cleanly defined. Finally, guidance will be given on extracting hydrodynamic quantities from molecular dynamics and on the pitfalls of doing so, including distinguishing a genuine breakdown of continuum behaviour from insufficient sampling.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Jesper Schmidt Hansen</span><span class="sep">&middot;</span><span class="aff">Professor, Roskilde University, Denmark</span></span>
+<p class="lec-expertise">His work combines molecular dynamics with continuum and nanoscale hydrodynamics to study non-equilibrium processes, viscoelastic fluids, and the breakdown of classical hydrodynamics at the nanoscale.</p>
+<span class="lec-link"><a href="https://forskning.ruc.dk/en/persons/jschmidt/">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-::: {.speaker-info}
-### Peter Daivis
-[Professor, RMIT University, Australia]{.affiliation}
+<div class="lec-row">
+<div class="lec-rail"><span class="num">09</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Machine Learning Potentials: Fundamentals</h3>
+<p class="lec-summary">This lecture will introduce the fundamentals of machine-learned interatomic potentials. It will explain how these potentials learn the relationship between atomic configurations and energies from quantum-mechanical reference data, offering close to first-principles accuracy at a fraction of the computational cost. It will describe the main ingredients shared by modern approaches, from the choice of training data and the representation of local atomic environments to the fitting and validation of the model. Finally, it will consider their use in molecular dynamics and the practical questions of accuracy, transferability, and behaviour beyond the range of the training set.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Ioan-Bogdan Magdau</span><span class="sep">&middot;</span><span class="aff">Lecturer in Computational Data Driven Chemistry, Newcastle University, UK</span></span>
+<p class="lec-expertise">He develops machine-learned interatomic potentials trained on quantum-mechanical data and studies their behaviour in molecular dynamics, with applications to liquid electrolytes and molecular materials.</p>
+<span class="lec-link"><a href="https://www.ncl.ac.uk/nes/people/profile/ioanmagdau.html">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-Specialist in polymer and colloid physics, computer simulation using equilibrium and non-equilibrium molecular dynamics, and molecular rheology of complex fluids.
+<div class="lec-row">
+<div class="lec-rail"><span class="num">10</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Machine Learning Potentials for Fluids &amp; Interfaces</h3>
+<p class="lec-summary">Building on the fundamentals, this lecture will turn to the use of machine-learned potentials for fluids and interfaces. It will consider what these potentials offer over classical force fields when modelling liquids, mixtures, and solid-liquid or liquid-vapour interfaces, where capturing the relevant interactions accurately is often difficult. It will look at how their near-quantum accuracy can be brought to bear on the properties that matter for fluid and interfacial behaviour, and the practical trade-offs this raises around computational cost, the conditions under which they remain reliable, and validation against reference data.</p>
+<div class="speaker-block">
+<span class="lec-by"><span class="name">Edward Smith</span><span class="sep">&middot;</span><span class="aff">Senior Lecturer in Fluid Dynamics, Brunel University London, UK</span></span>
+<p class="lec-expertise">His work develops multiscale methods that couple particle and continuum descriptions, including atomistic-continuum coupling, and applies machine learning to fluid dynamics and multiscale modelling.</p>
+<span class="lec-link"><a href="https://www.brunel.ac.uk/people/edward-smith">View profile &rarr;</a></span>
+</div>
+</div>
+</div>
 
-[View profile →](https://www.rmit.edu.au/profiles/d/peter-daivis)
-:::
-:::
+</div>
 
-::: {.speaker-card}
-
-::: {.speaker-info}
-### Xinyan Wang
-[Professor, Brunel University London, UK]{.affiliation}
-
-UKRI Future Leaders Fellow applying molecular dynamics to energy and propulsion systems. His work bridges fundamental MD research and industrial applications in fuels and thermal-fluid systems
-
-[View profile →](https://www.brunel.ac.uk/people/xinyan-wang)
-:::
-:::
-
-::: {.speaker-card}
-
-::: {.speaker-info}
-### Donatas Surblys
-[Associate Professor, Tohoku University, Japan]{.affiliation}
-
-Expert in molecular dynamics simulations of interfaces, with a focus on heat fluxes, interfacial thermal transport, and wetting phenomena at solid-liquid boundaries.
-
-[View profile →](https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html)
-:::
-:::
-
-::: {.speaker-card}
-
-::: {.speaker-info}
-### Nicodemo Di Pasquale
-[Associate Professor, University of Bologna, Italy]{.affiliation}
-
-Expert in multiscale modelling and the coupling of continuum and discrete methods, with particular emphasis on molecular simulations of solid-liquid interfaces. Specialized in surface interactions, thermodynamics, and adsorption phenomena.
-
-[View profile →](https://www.unibo.it/sitoweb/nicodemo.dipasquale/en)
-:::
-:::
-
-::: {.speaker-card}
-
-::: {.speaker-info}
-### Duncan Dockar
-[Royal Academy of Engineering Research Fellow, The University of Edinburgh, UK]{.affiliation}
-
-Expert in nanobubbles for water treatment, molecular dynamics, and nanoscale multiphase fluid simulation. His research focuses on cavitation dynamics and surface nanobubble behaviour.
-
-[View profile →](https://multiscaleflowx.github.io/team/dockar-duncan/)
-:::
-:::
-
-::: {.speaker-card}
-
-::: {.speaker-info}
-### Edward Smith
-[Senior Lecturer in Fluid Dynamics, Brunel University London, UK]{.affiliation}
-
-Specialist in multi-scale simulation methods combining particle and continuum approaches. His work includes coupled atomistic-continuum simulations, and the application of machine learning potentials to fluid dynamics problems.
-
-[View profile →](https://www.brunel.ac.uk/people/edward-smith)
-:::
-:::
-
-::: {.speaker-card}
-
-::: {.speaker-info}
-### Dmitry Nerukh
-[Senior Lecturer, Aston University, UK]{.affiliation}
-
-Expert in hybrid hydrodynamics/molecular dynamics multiscale modelling. His research includes atomistic simulations of viral systems and protein folding dynamics.
-
-[View profile →](https://research.aston.ac.uk/en/persons/dmitry-nerukh)
-:::
-:::
-
-:::
-
-:::
+</div>

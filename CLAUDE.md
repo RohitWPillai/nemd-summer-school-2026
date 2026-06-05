@@ -41,7 +41,7 @@ quarto render
 _quarto.yml       # Site configuration, navbar
 index.qmd         # Homepage with hero image
 schedule.qmd      # Program/timetable (Day 1 & 2)
-speakers.qmd      # 9 speaker profiles with countries
+speakers.qmd      # 10 speaker profiles with countries
 registration.qmd  # Application info, fees, key dates
 styles.css        # Custom styles (hero, cards, navbar)
 CNAME             # Custom domain config
@@ -62,7 +62,7 @@ images/
 
 ## Speakers
 
-9 confirmed speakers from Denmark, France, Australia, UK, Japan, Italy. Bios sourced from institutional websites.
+10 confirmed speakers from Denmark, France, Australia, UK, Japan, Italy. Bios sourced from institutional websites.
 
 ## Deployment
 

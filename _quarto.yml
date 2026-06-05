@@ -1,5 +1,7 @@
 project:
   type: website
+  render:
+    - "*.qmd"
 
 website:
   title: "NEMD Summer School 2026"
@@ -12,11 +14,11 @@ website:
       - href: index.qmd
         text: Home
       - href: schedule.qmd
-        text: Schedule
+        text: Timetable
       - href: speakers.qmd
-        text: Speakers
+        text: Programme
       - href: registration.qmd
-        text: Apply
+        text: Contact
 
 format:
   html:
