@@ -46,7 +46,7 @@ The programme covers:
 - **Fundamentals:** NEMD theory for fluids and interfaces
 - **Interfacial properties:** solid/liquid/vapour systems
 - **Transport phenomena:** slip lengths, heat fluxes, and interfacial thermal transport
-- **Nanoscale hydrodynamics:** when classical theory breaks down and how to extend it
+- **Nanoscale hydrodynamics:** the reach and limits of classical theory at the nanoscale
 - **Machine learning potentials:** for fluids and interfaces
 - **Interfacial structure:** capillary waves and intrinsic profiles of liquid interfaces
 - **Applications:** current research landscape and industrial use cases
