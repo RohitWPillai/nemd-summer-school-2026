@@ -9,7 +9,7 @@ anchor-sections: false
 <div class="prog-head">
 <h1 class="page-title">Programme</h1>
 <p class="prog-meta">10 lectures &middot; 6&ndash;7 July 2026 &middot; King's Buildings, Edinburgh</p>
-<p class="standfirst">Ten lectures across two days, paired with hands-on ARCHER2 sessions. Day 1 builds from NEMD fundamentals to solid-liquid interfaces; Day 2 moves to liquid-vapour interfaces and machine-learning potentials.</p>
+<p class="standfirst">Ten lectures across two days, paired with hands-on ARCHER2 sessions.<br>Day 1 builds from NEMD fundamentals to solid-liquid interfaces.<br>Day 2 moves to liquid-vapour interfaces and machine-learning potentials.</p>
 </div>
 
 <div class="programme-day day-1">
