@@ -17,8 +17,6 @@ website:
         text: Timetable
       - href: speakers.qmd
         text: Programme
-      - href: registration.qmd
-        text: Contact
 
 format:
   html:
