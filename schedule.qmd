@@ -21,7 +21,7 @@ toc: false
 | 11:30 – 12:30 | **Slip Lengths & Flows Past Surfaces** | [Samy Merabia](https://smerabia8.wixsite.com/monsite) |
 | 12:30 – 13:30 | **Heat Flux and Interfacial Thermal Transport Across the Wall** | [Donatas Surblys](https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html) |
 | 13:30 – 14:30 | *Lunch* | |
-| 14:30 – 16:30 | **Hands-on session: Solid-Liquid Interfaces** | [EPCC](https://www.epcc.ed.ac.uk/) |
+| 14:30 – 16:30 | **Hands-on session: Solid-Liquid Interfaces** | [Edward Smith](https://www.brunel.ac.uk/people/edward-smith), [Saikat Datta](https://www.swansea.ac.uk/staff/saikat.datta/), [Rohit Pillai](https://eng.ed.ac.uk/about/people/dr-rohit-pillai) |
 | 16:30 – 17:00 | *Coffee Break* | |
 | 17:00 – 17:30 | **The Landscape of MD Applications: Nanobubbles for Energy and Fuels** | [Xinyan Wang](https://www.brunel.ac.uk/people/xinyan-wang) |
 
@@ -41,7 +41,7 @@ toc: false
 | 11:00 – 11:30 | *Coffee Break* | |
 | 11:30 – 12:30 | **Nanoscale Hydrodynamics** | [Jesper Hansen](https://forskning.ruc.dk/en/persons/jschmidt/) |
 | 12:30 – 13:30 | *Lunch* | |
-| 13:30 – 15:30 | **Hands-on session: Liquid-Vapour Interfaces** | [EPCC](https://www.epcc.ed.ac.uk/) |
+| 13:30 – 15:30 | **Hands-on session: Liquid-Vapour Interfaces** | [Edward Smith](https://www.brunel.ac.uk/people/edward-smith), [Saikat Datta](https://www.swansea.ac.uk/staff/saikat.datta/), [Rohit Pillai](https://eng.ed.ac.uk/about/people/dr-rohit-pillai) |
 | 15:30 – 16:00 | *Coffee Break* | |
 | 16:00 – 16:45 | **Machine Learning Potentials: Fundamentals** | [Ioan-Bogdan Magdau](https://www.ncl.ac.uk/nes/people/profile/ioanmagdau.html) |
 | 16:45 – 17:30 | **Machine Learning Potentials for Fluids & Interfaces** | [Edward Smith](https://www.brunel.ac.uk/people/edward-smith) |
