@@ -388,6 +388,39 @@ h1, h2, h3, h4, h5, h6 {
 .programme .speaker-block .lec-expertise { margin: 0.4rem 0 0.55rem; }
 .programme .speaker-block .lec-link { display: block; }
 
+/* hands-on practical card — set apart from the numbered lecture rows */
+.programme .lec-row.handson {
+  background: var(--track-soft);
+  border-bottom: 0;
+  border-radius: 12px;
+  padding: 1.5rem 1.6rem;
+  margin-top: 0.4rem;
+  align-items: center;
+}
+.programme .lec-row.handson .lec-rail .tag {
+  display: inline-block;
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--track);
+  line-height: 1.3;
+}
+.programme .lec-handson-foot {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--track-text);
+  letter-spacing: 0.01em;
+  margin: 0.3rem 0 0;
+}
+.programme .lec-handson-foot a {
+  color: var(--track-text);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
 /* ===== Schedule Table ===== */
 .schedule-day {
   margin-bottom: 3rem;
