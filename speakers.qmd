@@ -83,6 +83,15 @@ anchor-sections: false
 </div>
 </div>
 
+<div class="lec-row handson">
+<div class="lec-rail"><span class="tag">Hands-on</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Hands-on session: Solid-Liquid Interfaces</h3>
+<p class="lec-summary">In the afternoon, you put the morning's theory into practice on ARCHER2, the UK's national supercomputer, with support from EPCC. From a single nonequilibrium simulation of a fluid confined in a nanoscale channel under shear and a temperature gradient, you extract four quantities, each tied to a morning lecture: the velocity profile and driving method (Daivis), the interfacial density profile (Di Pasquale), the slip length at the wall (Merabia), and the interfacial thermal resistance across the wall (Surblys).</p>
+<p class="lec-handson-foot">On ARCHER2 &middot; supported by <a href="https://www.epcc.ed.ac.uk/">EPCC</a></p>
+</div>
+</div>
+
 </div>
 
 <div class="programme-day day-2">
@@ -153,6 +162,15 @@ anchor-sections: false
 <p class="lec-expertise">His work develops multiscale methods that couple particle and continuum descriptions, including atomistic-continuum coupling, and applies machine learning to fluid dynamics and multiscale modelling.</p>
 <span class="lec-link"><a href="https://www.brunel.ac.uk/people/edward-smith">View profile &rarr;</a></span>
 </div>
+</div>
+</div>
+
+<div class="lec-row handson">
+<div class="lec-rail"><span class="tag">Hands-on</span></div>
+<div class="lec-body">
+<h3 class="lec-title">Hands-on session: Liquid-Vapour Interfaces</h3>
+<p class="lec-summary">The Day 2 practical again runs on ARCHER2 with support from EPCC. Participants simulate a liquid slab bounded by two free surfaces and, from a single trajectory, measure the surface tension and the apparent density profile across the liquid-vapour interface (Dockar), reconstruct the underlying intrinsic profile by separating capillary-wave broadening from the molecular structure (Sega), and examine where a continuum hydrodynamic description begins to break down at the nanoscale (Hansen).</p>
+<p class="lec-handson-foot">On ARCHER2 &middot; supported by <a href="https://www.epcc.ed.ac.uk/">EPCC</a></p>
 </div>
 </div>
 
