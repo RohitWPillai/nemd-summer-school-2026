@@ -50,7 +50,7 @@ toc: false
 
 ---
 
-**Note:** Schedule is preliminary and subject to change. Each day follows a morning theory, afternoon practice format: concepts introduced in morning lectures are applied during hands-on sessions on ARCHER2, the UK's national supercomputer, with support from EPCC training staff.
+**Note:** [EPCC](https://www.epcc.ed.ac.uk/) provides access to [ARCHER2](https://www.archer2.ac.uk/), the UK's national supercomputer, and training support for the afternoon hands-on sessions.
 
 ### Venue
 
