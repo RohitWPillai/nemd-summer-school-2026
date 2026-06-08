@@ -97,7 +97,7 @@ anchor-sections: false
 <div class="programme-day day-2">
 <div class="day-header">
 <span class="day-kicker">Day 2 &middot; Tuesday 7 July</span>
-<h2>Liquid-Vapour Interfaces &amp; ML Potentials</h2>
+<h2>Liquid-Vapour Interfaces &amp; Machine Learning Potentials</h2>
 </div>
 
 <div class="lec-row">
