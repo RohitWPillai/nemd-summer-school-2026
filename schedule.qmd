@@ -50,7 +50,7 @@ toc: false
 
 ---
 
-**Note:** [EPCC](https://www.epcc.ed.ac.uk/) provides access to [ARCHER2](https://www.archer2.ac.uk/), the UK's national supercomputer, and training support for the afternoon hands-on sessions.
+**Note:** [EPCC](https://www.epcc.ed.ac.uk/) provides access to [Cirrus](https://www.cirrus.ac.uk/), a UK Tier-2 national HPC service, and training support for the afternoon hands-on sessions.
 
 ### Venue
 
