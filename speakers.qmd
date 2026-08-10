@@ -27,6 +27,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Peter Daivis</span><span class="sep">&middot;</span><span class="aff">Professor, RMIT University, Australia</span></span>
 <p class="lec-expertise">His research addresses the statistical mechanics and computer simulation of complex fluids, spanning equilibrium and non-equilibrium molecular dynamics, polymer and colloid physics, and molecular rheology.</p>
 <span class="lec-link"><a href="https://www.rmit.edu.au/profiles/d/peter-daivis">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/01_Daivis_Fundamentals_of_NEMD_for_Fluids_and_Interfaces.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -40,6 +41,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Nicodemo Di Pasquale</span><span class="sep">&middot;</span><span class="aff">Associate Professor, University of Bologna, Italy</span></span>
 <p class="lec-expertise">Expert in multiscale modelling and the coupling of continuum and discrete methods, with particular emphasis on molecular simulations of solid–liquid interfaces. Specialized in surface interactions, thermodynamics, and adsorption phenomena.</p>
 <span class="lec-link"><a href="https://www.unibo.it/sitoweb/nicodemo.dipasquale/en">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/02_Di_Pasquale_Interfacial_Properties_of_Solid-Liquid_Systems.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -53,6 +55,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Samy Merabia</span><span class="sep">&middot;</span><span class="aff">Senior Research Director, CNRS Lyon, France</span></span>
 <p class="lec-expertise">He uses molecular dynamics to study nanoscale transport, including thermal transport, nanofluidics, hydrodynamic slip, and interfacial thermal conductance at solid-liquid interfaces.</p>
 <span class="lec-link"><a href="https://smerabia8.wixsite.com/monsite">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/03_Merabia_Slip_Lengths_and_Flows_Past_Surfaces.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -66,6 +69,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Donatas Surblys</span><span class="sep">&middot;</span><span class="aff">Associate Professor, Tohoku University, Japan</span></span>
 <p class="lec-expertise">He studies fluid interfaces using molecular dynamics, focusing on heat flux, interfacial thermal transport, and wetting at solid-liquid boundaries.</p>
 <span class="lec-link"><a href="https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/04_Surblys_Heat_Flux_and_Interfacial_Thermal_Transport_Across_the_Wall.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -96,6 +100,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Jesper Schmidt Hansen</span><span class="sep">&middot;</span><span class="aff">Professor, Roskilde University, Denmark</span></span>
 <p class="lec-expertise">His work combines molecular dynamics with continuum and nanoscale hydrodynamics to study non-equilibrium processes, viscoelastic fluids, and the breakdown of classical hydrodynamics at the nanoscale.</p>
 <span class="lec-link"><a href="https://forskning.ruc.dk/en/persons/jschmidt/">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/05_Hansen_Nanoscale_Hydrodynamics.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -109,6 +114,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Duncan Dockar</span><span class="sep">&middot;</span><span class="aff">Royal Academy of Engineering Research Fellow, The University of Edinburgh, UK</span></span>
 <p class="lec-expertise">His research applies molecular dynamics to nanoscale multiphase flows, including cavitation, surface nanobubbles, and their role in water treatment.</p>
 <span class="lec-link"><a href="https://multiscaleflowx.github.io/team/dockar-duncan/">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/06_Dockar_The_Liquid-Vapour_Interface_Surface_Tension_and_Structure.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -122,6 +128,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Marcello Sega</span><span class="sep">&middot;</span><span class="aff">Associate Professor, University College London, UK</span></span>
 <p class="lec-expertise">He studies the microscopic structure and dynamics of liquids and their interfaces, and develops computational-geometry methods that identify intrinsic interfaces and separate capillary-wave broadening from the underlying molecular structure.</p>
 <span class="lec-link"><a href="https://profiles.ucl.ac.uk/89616-marcello-sega">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/07_Sega_Microscopic_Structure_of_Liquid_Interfaces_Capillary_Waves_and_Intrinsic_Profiles.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -135,6 +142,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Ioan-Bogdan Magdau</span><span class="sep">&middot;</span><span class="aff">Lecturer in Computational Data Driven Chemistry, Newcastle University, UK</span></span>
 <p class="lec-expertise">He develops machine-learned interatomic potentials trained on quantum-mechanical data and studies their behaviour in molecular dynamics, with applications to liquid electrolytes and molecular materials.</p>
 <span class="lec-link"><a href="https://www.ncl.ac.uk/nes/people/profile/ioanmagdau.html">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/08_Magdau_Machine_Learning_Potentials_Fundamentals.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -148,6 +156,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Edward Smith</span><span class="sep">&middot;</span><span class="aff">Senior Lecturer in Fluid Dynamics, Brunel University London, UK</span></span>
 <p class="lec-expertise">His work develops multiscale methods that couple particle and continuum descriptions, including atomistic-continuum coupling, and applies machine learning to fluid dynamics and multiscale modelling.</p>
 <span class="lec-link"><a href="https://www.brunel.ac.uk/people/edward-smith">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/09_Smith_Machine_Learning_Potentials_for_Fluids_and_Interfaces.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
@@ -161,6 +170,7 @@ anchor-sections: false
 <span class="lec-by"><span class="name">Xinyan Wang</span><span class="sep">&middot;</span><span class="aff">Professor, Brunel University London, UK</span></span>
 <p class="lec-expertise">A UKRI Future Leaders Fellow, he works on low-carbon fuels, combustion engines, and powertrain technologies, combining experiments, engine simulation, and molecular dynamics to link fundamental research with the industrial decarbonisation of transport.</p>
 <span class="lec-link"><a href="https://www.brunel.ac.uk/people/xinyan-wang">View profile &rarr;</a></span>
+<span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/10_Wang_The_Landscape_of_MD_Applications_Nanobubbles_for_Energy_and_Fuels.pdf">Slides (PDF)</a></span>
 </div>
 </div>
 </div>
