@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1eaebb03188ff12a707467a144a7bf0c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-9aec1aa607461b26acc775324825abfd.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -176,7 +179,7 @@ This talk will introduce the main theoretical ideas underlying the design and in
 <p class="lec-expertise">
 His research addresses the statistical mechanics and computer simulation of complex fluids, spanning equilibrium and non-equilibrium molecular dynamics, polymer and colloid physics, and molecular rheology.
 </p>
-<p><span class="lec-link"><a href="https://www.rmit.edu.au/profiles/d/peter-daivis">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://www.rmit.edu.au/profiles/d/peter-daivis">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/01_Daivis_Fundamentals_of_NEMD_for_Fluids_and_Interfaces.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -196,7 +199,7 @@ This lecture will introduce the structural and thermodynamic properties of solid
 <p class="lec-expertise">
 Expert in multiscale modelling and the coupling of continuum and discrete methods, with particular emphasis on molecular simulations of solid–liquid interfaces. Specialized in surface interactions, thermodynamics, and adsorption phenomena.
 </p>
-<p><span class="lec-link"><a href="https://www.unibo.it/sitoweb/nicodemo.dipasquale/en">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://www.unibo.it/sitoweb/nicodemo.dipasquale/en">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/02_Di_Pasquale_Interfacial_Properties_of_Solid-Liquid_Systems.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -216,7 +219,7 @@ The purpose of this lecture is to illustrate how molecular dynamics simulations 
 <p class="lec-expertise">
 He uses molecular dynamics to study nanoscale transport, including thermal transport, nanofluidics, hydrodynamic slip, and interfacial thermal conductance at solid-liquid interfaces.
 </p>
-<p><span class="lec-link"><a href="https://smerabia8.wixsite.com/monsite">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://smerabia8.wixsite.com/monsite">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/03_Merabia_Slip_Lengths_and_Flows_Past_Surfaces.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -236,7 +239,7 @@ The lecture will introduce molecular dynamics simulations of heat transport acro
 <p class="lec-expertise">
 He studies fluid interfaces using molecular dynamics, focusing on heat flux, interfacial thermal transport, and wetting at solid-liquid boundaries.
 </p>
-<p><span class="lec-link"><a href="https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://www.ifs.tohoku.ac.jp/mht/jp/members/donatas.html">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/04_Surblys_Heat_Flux_and_Interfacial_Thermal_Transport_Across_the_Wall.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -280,7 +283,7 @@ Opening the second day, this lecture will examine fluid flow at the nanoscale, c
 <p class="lec-expertise">
 His work combines molecular dynamics with continuum and nanoscale hydrodynamics to study non-equilibrium processes, viscoelastic fluids, and the breakdown of classical hydrodynamics at the nanoscale.
 </p>
-<p><span class="lec-link"><a href="https://forskning.ruc.dk/en/persons/jschmidt/">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://forskning.ruc.dk/en/persons/jschmidt/">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/05_Hansen_Nanoscale_Hydrodynamics.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -300,7 +303,7 @@ This lecture will introduce the liquid-vapour interface as a thermodynamic and s
 <p class="lec-expertise">
 His research applies molecular dynamics to nanoscale multiphase flows, including cavitation, surface nanobubbles, and their role in water treatment.
 </p>
-<p><span class="lec-link"><a href="https://multiscaleflowx.github.io/team/dockar-duncan/">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://multiscaleflowx.github.io/team/dockar-duncan/">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/06_Dockar_The_Liquid-Vapour_Interface_Surface_Tension_and_Structure.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -320,7 +323,7 @@ This lecture will introduce the microscopic structure of liquid interfaces. It w
 <p class="lec-expertise">
 He studies the microscopic structure and dynamics of liquids and their interfaces, and develops computational-geometry methods that identify intrinsic interfaces and separate capillary-wave broadening from the underlying molecular structure.
 </p>
-<p><span class="lec-link"><a href="https://profiles.ucl.ac.uk/89616-marcello-sega">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://profiles.ucl.ac.uk/89616-marcello-sega">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/07_Sega_Microscopic_Structure_of_Liquid_Interfaces_Capillary_Waves_and_Intrinsic_Profiles.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -340,7 +343,7 @@ This lecture will introduce the fundamentals of machine-learned interatomic pote
 <p class="lec-expertise">
 He develops machine-learned interatomic potentials trained on quantum-mechanical data and studies their behaviour in molecular dynamics, with applications to liquid electrolytes and molecular materials.
 </p>
-<p><span class="lec-link"><a href="https://www.ncl.ac.uk/nes/people/profile/ioanmagdau.html">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://www.ncl.ac.uk/nes/people/profile/ioanmagdau.html">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/08_Magdau_Machine_Learning_Potentials_Fundamentals.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -360,7 +363,7 @@ Building on the fundamentals, this lecture will show the use of machine-learned 
 <p class="lec-expertise">
 His work develops multiscale methods that couple particle and continuum descriptions, including atomistic-continuum coupling, and applies machine learning to fluid dynamics and multiscale modelling.
 </p>
-<p><span class="lec-link"><a href="https://www.brunel.ac.uk/people/edward-smith">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://www.brunel.ac.uk/people/edward-smith">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/09_Smith_Machine_Learning_Potentials_for_Fluids_and_Interfaces.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
@@ -380,7 +383,7 @@ This lecture will use nanobubbles as a worked example of how molecular dynamics 
 <p class="lec-expertise">
 A UKRI Future Leaders Fellow, he works on low-carbon fuels, combustion engines, and powertrain technologies, combining experiments, engine simulation, and molecular dynamics to link fundamental research with the industrial decarbonisation of transport.
 </p>
-<p><span class="lec-link"><a href="https://www.brunel.ac.uk/people/xinyan-wang">View profile →</a></span></p>
+<p><span class="lec-link"><a href="https://www.brunel.ac.uk/people/xinyan-wang">View profile →</a></span> <span class="lec-link"><a href="https://github.com/Non-Equilibrium-Molecular-Dynamics/NEMD-Summer-School-2026/releases/download/slides-2026/10_Wang_The_Landscape_of_MD_Applications_Nanobubbles_for_Energy_and_Fuels.pdf">Slides (PDF)</a></span></p>
 </div>
 </div>
 </div>
